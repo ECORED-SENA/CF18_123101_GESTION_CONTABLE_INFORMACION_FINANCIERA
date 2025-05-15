@@ -4,11 +4,19 @@
     position: absolute
     top: 20%
     right: 10%
+    width: 94px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 65%
+    right: 83%
+    width: 95px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 67%
+    width: 91px
 
 @keyframes float1
   0%
@@ -18,15 +26,217 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and ( max-width: $bp-max-lg )
+    background-image: url("../assets/curso/portada/fondo-banner-principal-tb.png") !important
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-mv.png") !important
 
 .banner-principal__row .banner-principal__img
   width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: black !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+.bg
+  &-1
+    background-color: #FEEAD4
+    border-radius: 10px
+  &-2
+    background-color: #E2DACC
+    border-radius: 10px
+  &-3
+    background-image: url(../assets/curso/tema1/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-4
+    background-color: #BCE0FC
+    border-radius: 10px
+  &-5 
+    background-color: #CDB9F8
+    border-radius: 10px
+  &-6
+    background-color: #E2DACC
+  &-7
+    background-image: url(../assets/curso/tema1/bg2.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-8
+    background-color: #BCE0FC
+  &-c3 
+    background-color: #FD9826
+    background-repeat: repeat-x
+    background-position: center center // centro horizontal y vertical
+    height: 36px
+    display: flex
+    align-items: center
+    justify-content: center 
+
+    @media screen and (max-width: $bp-max-sm)
+      background-repeat: repeat
+      background-position: center top 
+      height: auto
+  &-c6
+    padding-left: 10px
+    padding-right: 10px
+    background-color: #FED6A8
+  &-14
+    background-color: #5B39A6
+  &-9
+    background-image: url(../assets/curso/tema1/bg2.jpg)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-10
+    background-image: url(../assets/curso/tema1/bg3.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-11
+    background-color: #FED6A8
+    border-radius: 10px
+  &-12 
+    background-color: #E6DCFB
+    border-radius: 10px
+  &-13
+    background-color: #DDEFFD
+    border-radius: 10px
+  &-15
+    background-image: url(../assets/curso/tema1/bg4.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-16 
+    background-color: #F2ECFD
+    border-radius: 10px
+  &-17
+    background-image: url(../assets/curso/tema1/bg5.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-18
+    background-image: url(../assets/curso/tema2/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-19 
+    background-color: #E6DCFB
+  &-20
+    background-color: #FFFFFF
+    border-radius: 10px
+  &-21 
+    background-color: #FEEAD4
+  &-22
+    background-image: url(../assets/curso/tema2/bg2.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-23
+    background-color: #F3F0EA
+    border-radius: 6px
+  &-24
+    background-image: url(../assets/curso/tema2/bg3.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-25 
+    background-color: #412976
+  &-26
+    background-image: url(../assets/curso/tema3/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-27
+    background-color: #F3F0EA
+  &-28
+    background-image: url(../assets/curso/tema3/bg2.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-29 
+    background-color: #DDEFFD
+  &-30
+    background-image: url(../assets/curso/tema3/bg3.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+
+
+///// SLyder A tipo B Custom --------------------------------------
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #FED401
+  @media screen and (max-width: $bp-max-lg)
+    width: 30px
+    height: 30px
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #FED401
+  @media screen and (max-width: $bp-max-lg)
+    width: 30px
+    height: 30px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  border: none
+
+.slyder-a__bullets__item--active
+  background-color: #FD9826 !important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #FD9826
+
+//////import css-variables from 
+
+.clr-paleYellow
+  background-color: #F2ECFD
+
+  ///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #5B39A6
+
+.acordion__accion__btn--a
+  background-color: #FED401 !important
+
+.acordion__activo
+  background-color: #E6DCFB !important
+  color: #000 !important
+  h3
+    color: black !important
+
+.acordion__titulo
+  h3
+    color: white 
+
+////////////////////
+
+.min-padding 
+  padding-top: 4px !important
+  padding-bottom: 4px !important
+
+@media (min-width: 992px) 
+  .tabla-responsive 
+    overflow-x: unset
+  
+.tabla-responsive 
+  overflow-x: auto;
+  width: 100%;
+
+
+.tabla-a table 
+  table-layout: fixed;
+  width: auto;
+
+.tabla-a th,
+.tabla-a td 
+  width: 250px;
+
+
+
+

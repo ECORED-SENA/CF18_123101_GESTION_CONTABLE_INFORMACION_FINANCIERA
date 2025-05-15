@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="399" height="82" viewBox="0 0 399 82">
+  <g id="Grupo_1112978" data-name="Grupo 1112978" transform="translate(-288.051 -2599)">
+    <rect id="Rectángulo_406002" data-name="Rectángulo 406002" width="388" height="74" transform="translate(299.051 2607)" fill="#bce0fc"/>
+    <g id="Rectángulo_406003" data-name="Rectángulo 406003" transform="translate(288.051 2599)" fill="#fbfbf9" stroke="#000" stroke-width="0.5">
+      <rect width="395" height="76" stroke="none"/>
+      <rect x="0.25" y="0.25" width="394.5" height="75.5" fill="none"/>
+    </g>
+    <g id="Grupo_1112977" data-name="Grupo 1112977" transform="translate(84 -10)">
+      <text id="_Activo_" data-name="% Activo =" transform="translate(281.051 2638)" fill="#12263f" font-size="16" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="0" y="17">% Activo =</tspan></text>
+      <text id="_100" data-name="*100" transform="translate(486.051 2638)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">*100</tspan></text>
+      <text id="cuenta_activo_total_activos" data-name="cuenta activo 
+total activos" transform="translate(368.051 2626)" fill="#12263f" font-size="16" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-46.012" y="17">cuenta activo </tspan><tspan x="-41.766" y="41">total activos</tspan></text>
+      <line id="Línea_575" data-name="Línea 575" x2="110" transform="translate(364.551 2647.5)" fill="none" stroke="#12263f" stroke-width="1"/>
+      <text id="_" data-name="(                            )" transform="translate(361.051 2653)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">(                            )</tspan></text>
+    </g>
+  </g>
+</svg>
