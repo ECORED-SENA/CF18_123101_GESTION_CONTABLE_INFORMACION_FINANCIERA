@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Análisis financiero
+      h1(data-aos="fade-right") Análisis financiero
 
     .row.bg-3
       .col-12
@@ -17,7 +17,7 @@
               figure
                 img(src='@/assets/curso/tema1/img1.png', alt='', style="width: 400px").m-auto
             .col-lg-4 
-              p.p-4.bg-4 Cabe resaltar que los estados financieros que se generan requieren de la aplicación de técnicas de análisis e indicadores financieros; cuyo objetivo es interpretar los valores monetarios para la elaboración de informes comprensibles y útiles para la toma de decisiones de liquidez, solvencia y rentabilidad.
+              p.p-4.bg-4(data-aos="fade-right") Cabe resaltar que los estados financieros que se generan requieren de la aplicación de técnicas de análisis e indicadores financieros; cuyo objetivo es interpretar los valores monetarios para la elaboración de informes comprensibles y útiles para la toma de decisiones de liquidez, solvencia y rentabilidad.
 
           .row.justify-content-center.align-items-center
             .col-lg-5.d-lg-block.d-none
@@ -26,13 +26,13 @@
             .col-lg-7
               p El análisis financiero es una herramienta de apoyo a la gerencia porque establece los resultados financieros para identificar las debilidades y fortalezas, con el fin de diseñar e implementar estrategias para dar valor agregado a la empresa. Adicionalmente, es útil para las entidades financieras y acreedores, teniendo en cuenta que determinan la capacidad de endeudamiento y liquidez de la compañía. Finalmente, permite a los socios y propietarios conocer los niveles de rentabilidad de la inversión realizada.
 
-              p.p-3.bg-5 A partir de los cambios normativos en el ámbito internacional y con respecto a la norma local se establecen criterios y bases de medición diferentes que de cierta manera afectan los resultados finales. Es de resaltar que se manejan cambios en el reconocimiento y medición de las cuentas de activos diferidos, obligaciones financieras, deudores, cuentas por pagar y estimaciones contables como es el caso de la vida útil de propiedades, planta y equipo.
+              p.p-3.bg-5(data-aos="fade-right") A partir de los cambios normativos en el ámbito internacional y con respecto a la norma local se establecen criterios y bases de medición diferentes que de cierta manera afectan los resultados finales. Es de resaltar que se manejan cambios en el reconocimiento y medición de las cuentas de activos diferidos, obligaciones financieras, deudores, cuentas por pagar y estimaciones contables como es el caso de la vida útil de propiedades, planta y equipo.
           
           p Para realizar adecuadamente el análisis financiero es importante que la información financiera tenga en cuenta las cualidades fundamentales y de mejora que se relacionan a continuación:
 
           .row.justify-content-center
             .col-sm-6.col-lg-3.mb-4.mb-lg-0
-              .tarjeta--boton.bg-6.p-4.h-100
+              .tarjeta--boton.bg-6.p-4.h-100(data-aos="fade-right")
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
@@ -43,7 +43,7 @@
                 p.text-center Representación fiel.
 
             .col-sm-6.col-lg-3.mb-4.mb-lg-0
-              .tarjeta--boton.bg-6.p-4.h-100
+              .tarjeta--boton.bg-6.p-4.h-100(data-aos="fade-right")
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
@@ -60,7 +60,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1  Técnicas de análisis financiero
+      h2(data-aos="fade-right") 1.1  Técnicas de análisis financiero
 
     .row.bg-7
       .col-12
@@ -93,7 +93,7 @@
 
           separador
           #t_1_2.titulo-segundo.color-acento-contenido
-            h2 1.2 Metodología de cálculo de las técnicas de análisis horizontal y vertical
+            h2(data-aos="fade-right") 1.2 Metodología de cálculo de las técnicas de análisis horizontal y vertical
 
           p Para aplicar la técnica de análisis vertical se requiere un estado financiero, teniendo en cuenta que se identifica la proporción o relación que tiene el total del elemento, con respecto a cada una de sus partes. 
 
@@ -116,7 +116,7 @@
               figure
                 img(src="@/assets/curso/tema1/img10.svg", alt="", style="width: 400px").m-auto
               
-              p.p-4.bg-4.mt-2 Para desarrollar el procedimiento en el pasivo y patrimonio se toma como base la sumatoria de pasivo y patrimonio, luego se calcula el porcentaje que representa cada una de las cuentas de estos elementos. 
+              p.p-4.bg-4.mt-2(data-aos="fade-right") Para desarrollar el procedimiento en el pasivo y patrimonio se toma como base la sumatoria de pasivo y patrimonio, luego se calcula el porcentaje que representa cada una de las cuentas de estos elementos. 
 
               p Las fórmulas que se aplican son las siguientes:
 
@@ -142,223 +142,224 @@
       .col-12
         .p-5
           .tarjeta.tarjeta--azul.mb-6.px-4(style='background-color: white !important')
-              SlyderA(tipo="b")
-                .row.justify-content-center.align-items-center
-                  .col-lg-12
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 1.
-                      span Análisis financiero y técnicas de evaluación de estados financieros - Activos corrientes
-
-                    .tabla-a.color-acento-contenido.mt-4 
-                      table
-                        thead
-                          tr(style="background-color: #FD9826")
-                            th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
-
-                        tbody
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Activos corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b Análisis vertical]
-                          tr(style="background-color: #FFFF")
-                            td.text-start Efectivo y equivalentes de efectivo
-                            td.text-end $362.458
-                            td.text-end 1,53 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Activos financieros
-                            td.text-end $856.355
-                            td.text-end 3,60 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Deudores comerciales y otros
-                            td.text-end $11.399.216
-                            td.text-end 47,97 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Inventarios
-                            td.text-end $3.919.395
-                            td.text-end 16,49 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Pagos anticipados
-                            td.text-end $45.690
-                            td.text-end 0,19 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Total activos corrientes]
-                            td.text-end #[b $16.583.114]
-                            td.text-end #[b 69,78 %]
+            SlyderA(tipo="b")
+              .row.justify-content-center.align-items-center
+                .col-lg-12
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Tabla 1.
+                    span Análisis financiero y técnicas de evaluación de estados financieros - Activos corrientes
 
 
-                .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 2.
-                      span Análisis financiero y técnicas de evaluación de estados financieros - Activos no corrientes
+                  .tabla-a.color-acento-contenido.mt-4
+                    table
+                      thead
+                        tr(style="background-color: #FD9826")
+                          th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
 
-                    .tabla-a.color-acento-contenido.mt-4
-                      table
-                        thead
-                          tr(style="background-color: #FD9826")
-                            th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
-                        tbody
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Activos no corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b Análisis vertical]
-                          tr(style="background-color: #FFFF")
-                            td.text-start Activos financieros
-                            td.text-end $43.600
-                            td.text-end 0,18 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Deudores
-                            td.text-end $150.900
-                            td.text-end 0,64 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Propiedades de inversión
-                            td.text-end $664.564
-                            td.text-end 2,80 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Propiedades, planta y equipo
-                            td.text-end $5.832.579
-                            td.text-end 24,54 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Activos intangibles
-                            td.text-end $189.882
-                            td.text-end 0,80 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Activos por impuestos diferidos
-                            td.text-end $298.835
-                            td.text-end 1,26 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start #[b Total activos no corrientes]
-                            td.text-end #[b $7.180.360]
-                            td.text-end #[b 30,22 %]
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Total activos]
-                            td.text-end #[b $23.763.474]
-                            td.text-end #[b 100,00 %]
-
-                .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 3.
-                      span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
-
-                    .tabla-a.color-acento-contenido.mt-4
-                      table
-                        thead
-                          tr(style="background-color: #FD9826")
-                            th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
-                        tbody
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Pasivos corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b Análisis vertical]
-                          tr(style="background-color: #FFFF")
-                            td.text-start Obligaciones financieras
-                            td.text-end $2.193.035
-                            td.text-end 9,23 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Proveedores
-                            td.text-end $5.401.665
-                            td.text-end 22,73 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Cuentas por pagar
-                            td.text-end $1.433.856
-                            td.text-end 6,03 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Impuestos corrientes por pagar
-                            td.text-end $279.188
-                            td.text-end 1,17 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Obligaciones laborales
-                            td.text-end $362.752
-                            td.text-end 1,53 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Anticipos y avances recibidos
-                            td.text-end $65.983
-                            td.text-end 0,28 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start #[b Total, pasivos corrientes]
-                            td.text-end #[b $9.736.480]
-                            td.text-end #[b 40,97 %]
+                      tbody
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Activos corrientes]
+                          td.text-end #[b 2019]
+                          td.text-end #[b Análisis vertical]
+                        tr(style="background-color: #FFFF")
+                          td.text-start Efectivo y equivalentes de efectivo
+                          td.text-end $362.458
+                          td.text-end 1,53 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Activos financieros
+                          td.text-end $856.355
+                          td.text-end 3,60 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Deudores comerciales y otros
+                          td.text-end $11.399.216
+                          td.text-end 47,97 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Inventarios
+                          td.text-end $3.919.395
+                          td.text-end 16,49 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Pagos anticipados
+                          td.text-end $45.690
+                          td.text-end 0,19 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Total activos corrientes]
+                          td.text-end #[b $16.583.114]
+                          td.text-end #[b 69,78 %]
 
 
-                .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 4.
-                      span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+              .row.justify-content-center.align-items-center.my-lg-3
+                .col-lg-12
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Tabla 2.
+                    span Análisis financiero y técnicas de evaluación de estados financieros - Activos no corrientes
 
-                    .tabla-a.color-acento-contenido.mt-4
-                      table
-                        thead
-                          tr(style="background-color: #FD9826")
-                            th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
-                        tbody
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Pasivos no corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b Análisis vertical]
-                          tr(style="background-color: #FFFF")
-                            td.text-start Obligaciones financieras
-                            td.text-end $4.896.265
-                            td.text-end 20,60 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Provisiones
-                            td.text-end $238.524
-                            td.text-end 1,00 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Pasivos por impuesto diferido
-                            td.text-end $1.168.244
-                            td.text-end 4,92 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Total pasivos no corrientes]
-                            td.text-end #[b $6.303.033]
-                            td.text-end #[b 26,52 %]
-                          tr(style="background-color: #FFFF")
-                            td.text-start #[b Total pasivos]
-                            td.text-end #[b $16.039.513]
-                            td.text-end #[b 67,50 %]
+                  .tabla-a.color-acento-contenido.mt-4
+                    table
+                      thead
+                        tr(style="background-color: #FD9826")
+                          th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
+                      tbody
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Activos no corrientes]
+                          td.text-end #[b 2019]
+                          td.text-end #[b Análisis vertical]
+                        tr(style="background-color: #FFFF")
+                          td.text-start Activos financieros
+                          td.text-end $43.600
+                          td.text-end 0,18 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Deudores
+                          td.text-end $150.900
+                          td.text-end 0,64 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Propiedades de inversión
+                          td.text-end $664.564
+                          td.text-end 2,80 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Propiedades, planta y equipo
+                          td.text-end $5.832.579
+                          td.text-end 24,54 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Activos intangibles
+                          td.text-end $189.882
+                          td.text-end 0,80 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Activos por impuestos diferidos
+                          td.text-end $298.835
+                          td.text-end 1,26 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start #[b Total activos no corrientes]
+                          td.text-end #[b $7.180.360]
+                          td.text-end #[b 30,22 %]
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Total activos]
+                          td.text-end #[b $23.763.474]
+                          td.text-end #[b 100,00 %]
+
+              .row.justify-content-center.align-items-center.my-lg-3
+                .col-lg-12
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Tabla 3.
+                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+
+                  .tabla-a.color-acento-contenido.mt-4
+                    table
+                      thead
+                        tr(style="background-color: #FD9826")
+                          th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
+                      tbody
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Pasivos corrientes]
+                          td.text-end #[b 2019]
+                          td.text-end #[b Análisis vertical]
+                        tr(style="background-color: #FFFF")
+                          td.text-start Obligaciones financieras
+                          td.text-end $2.193.035
+                          td.text-end 9,23 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Proveedores
+                          td.text-end $5.401.665
+                          td.text-end 22,73 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Cuentas por pagar
+                          td.text-end $1.433.856
+                          td.text-end 6,03 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Impuestos corrientes por pagar
+                          td.text-end $279.188
+                          td.text-end 1,17 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Obligaciones laborales
+                          td.text-end $362.752
+                          td.text-end 1,53 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Anticipos y avances recibidos
+                          td.text-end $65.983
+                          td.text-end 0,28 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start #[b Total, pasivos corrientes]
+                          td.text-end #[b $9.736.480]
+                          td.text-end #[b 40,97 %]
 
 
-                .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 5.
-                      span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+              .row.justify-content-center.align-items-center.my-lg-3
+                .col-lg-12
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Tabla 4.
+                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
 
-                    .tabla-a.color-acento-contenido.mt-4
-                      table
-                        thead
-                          tr(style="background-color: #FD9826")
-                            th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
-                        tbody
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Patrimonio]
-                            td.text-end #[b 2019]
-                            td.text-end #[b Análisis vertical]
-                          tr(style="background-color: #FFFF")
-                            td.text-start Capital suscrito y pagado
-                            td.text-end $550.000
-                            td.text-end 2,31 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Superávit de capital
-                            td.text-end $2.568.000
-                            td.text-end 10,81 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start Reservas
-                            td.text-end $1.292.000
-                            td.text-end 5,44 %
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start Ganancias acumuladas
-                            td.text-end $3.313.961
-                            td.text-end 13,95 %
-                          tr(style="background-color: #FFFF")
-                            td.text-start #[b Total patrimonio]
-                            td.text-end #[b $7.723.961]
-                            td.text-end #[b 32,50 %]
-                          tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Total pasivos y patrimonio]
-                            td.text-end #[b $23.763.474]
-                            td.text-end #[b 100,00 %]
+                  .tabla-a.color-acento-contenido.mt-4
+                    table
+                      thead
+                        tr(style="background-color: #FD9826")
+                          th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
+                      tbody
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Pasivos no corrientes]
+                          td.text-end #[b 2019]
+                          td.text-end #[b Análisis vertical]
+                        tr(style="background-color: #FFFF")
+                          td.text-start Obligaciones financieras
+                          td.text-end $4.896.265
+                          td.text-end 20,60 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Provisiones
+                          td.text-end $238.524
+                          td.text-end 1,00 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Pasivos por impuesto diferido
+                          td.text-end $1.168.244
+                          td.text-end 4,92 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Total pasivos no corrientes]
+                          td.text-end #[b $6.303.033]
+                          td.text-end #[b 26,52 %]
+                        tr(style="background-color: #FFFF")
+                          td.text-start #[b Total pasivos]
+                          td.text-end #[b $16.039.513]
+                          td.text-end #[b 67,50 %]
+
+
+              .row.justify-content-center.align-items-center.my-lg-3
+                .col-lg-12
+                  .titulo-sexto.color-acento-contenido.mb-3
+                    h5 Tabla 5.
+                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+
+                  .tabla-a.color-acento-contenido.mt-4
+                    table
+                      thead
+                        tr(style="background-color: #FD9826")
+                          th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
+                      tbody
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Patrimonio]
+                          td.text-end #[b 2019]
+                          td.text-end #[b Análisis vertical]
+                        tr(style="background-color: #FFFF")
+                          td.text-start Capital suscrito y pagado
+                          td.text-end $550.000
+                          td.text-end 2,31 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Superávit de capital
+                          td.text-end $2.568.000
+                          td.text-end 10,81 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start Reservas
+                          td.text-end $1.292.000
+                          td.text-end 5,44 %
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start Ganancias acumuladas
+                          td.text-end $3.313.961
+                          td.text-end 13,95 %
+                        tr(style="background-color: #FFFF")
+                          td.text-start #[b Total patrimonio]
+                          td.text-end #[b $7.723.961]
+                          td.text-end #[b 32,50 %]
+                        tr(style="background-color: #F6F6F6")
+                          td.text-start #[b Total pasivos y patrimonio]
+                          td.text-end #[b $23.763.474]
+                          td.text-end #[b 100,00 %]
 
     .row.bg-10
       .col-12
@@ -383,7 +384,7 @@
 
           .row.justify-content-center.mt-4
             .col-lg-10
-              p.p-4.bg-11 De acuerdo con el resultado generado se puede decir que el efectivo representa el 1.53% del activo total de la empresa.
+              p.p-4.bg-11(data-aos="fade-right") De acuerdo con el resultado generado se puede decir que el efectivo representa el 1.53% del activo total de la empresa.
 
               .row.align-items-center.justify-content-center
                 .col-lg-5.d-lg-block.d-none
@@ -397,7 +398,7 @@
                   figure.mt-2
                     img(src="@/assets/curso/tema1/img19.png", alt="", style="width: 400px").m-auto
                   
-                  p.p-4.bg-11.mt-4 Los inventarios representan el 16,49% del activo total.
+                  p.p-4.bg-11.mt-4(data-aos="fade-right") Los inventarios representan el 16,49% del activo total.
                 
 
     .row.mb-2.ms-0.mt-4
@@ -415,7 +416,7 @@
         figure.mt-2
           img(src="@/assets/curso/tema1/img21.svg", alt="", style="width: 400px").m-auto
         
-        p.p-4.bg-12.mt-4 Las obligaciones financieras representan el 9,23% del total de pasivo más patrimonio.  
+        p.p-4.bg-12.mt-4(data-aos="fade-right") Las obligaciones financieras representan el 9,23% del total de pasivo más patrimonio.  
 
       .col-lg-5.d-lg-block.d-none
         figure
@@ -437,7 +438,7 @@
         figure.mt-2
           img(src="@/assets/curso/tema1/img24.svg", alt="", style="width: 400px").m-auto
         
-        p.p-4.bg-13.mt-4 El capital representa el 2,31 % sobre el patrimonio total de pasivo más patrimonio.
+        p.p-4.bg-13.mt-4(data-aos="fade-right") El capital representa el 2,31 % sobre el patrimonio total de pasivo más patrimonio.
 
       .col-lg-5.d-lg-block.d-none
         figure
@@ -552,7 +553,7 @@
                   figure.mt-2.d-block.mx-auto
                     img(src="@/assets/curso/tema1/img30.png", alt="", style="width: 293px")
                 .col-lg-6
-                  p.p-4.bg-4 El costo de ventas representa el 70 % del total de ingresos por actividades ordinarias.
+                  p.p-4.bg-4(data-aos="fade-right") El costo de ventas representa el 70 % del total de ingresos por actividades ordinarias.
 
           p.mt-4 El resultado del ejercicio refleja una utilidad de $788.471 y las ventas o ingresos de actividades ordinarias a $ 30.771.232.
 
@@ -565,7 +566,7 @@
                   figure.mt-2.d-block.mx-auto
                     img(src="@/assets/curso/tema1/img32.png", alt="", style="width: 293px")
                 .col-lg-6
-                  p.p-4.bg-5 La utilidad del ejercicio representa el 3 % del total de ingresos por actividades ordinarias.
+                  p.p-4.bg-5(data-aos="fade-right") La utilidad del ejercicio representa el 3 % del total de ingresos por actividades ordinarias.
                   
 
     .row.mb-2.ms-0.mt-4

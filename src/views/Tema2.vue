@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Indicadores financieros y de gestión
+      h1(data-aos="fade-right") Indicadores financieros y de gestión
       
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -16,13 +16,13 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Indicadores de gestión
+      h2(data-aos="fade-right") 2.1 Indicadores de gestión
     
     p Los indicadores permiten que la gestión de las organizaciones sea efectiva y eficiente, puesto que facilita a los integrantes mejorar su desempeño, permitiéndoles evaluar la gestión y mejorar los niveles de aprendizaje en la organización.
 
     .row.justify-content-center
       .col-lg-12(data-aos="fade-down")
-        .row.d-flex.align-items-center.bg-6
+        .row.d-flex.align-items-center.bg-6(data-aos="fade-right")
           .col-lg.d-flex
             .p-4.w-100.align-items-center
               p Un indicador es una medición cuantitativa o cualitativa, cuyo objetivo es verificar el cumplimiento de objetivos específicos. Los indicadores de gestión miden el cumplimiento de los objetivos estratégicos de la organización, teniendo en cuenta lo señalado en la planeación estratégica. Se enfocan en la medición del desempeño, eficiencia, eficacia, efectividad y productividad de la empresa, buscando la mejora continua de los procesos y procedimientos. Cabe resaltar que los indicadores se diseñan por las diferentes áreas de la organización de acuerdo con las actividades que se desean medir de forma cuantitativa o cualitativa (Roncancio, 2019).
@@ -94,7 +94,7 @@
                       .p-4.w-100.align-items-center
                         p Los indicadores poseen los siguientes elementos:
 
-                        ul.lista-ul--color
+                        ul.lista-ul--color(data-aos="fade-right")
                           li.d-flex.bg-20.p-2
                             i.fa-solid.fa-greater-than
                             |
@@ -122,7 +122,7 @@
                       .p-4.w-100.align-items-center
                         p Las ventajas de los indicadores de gestión son:
 
-                        ul.lista-ul--color
+                        ul.lista-ul--color(data-aos="fade-right")
                           li.d-flex.bg-20.p-2
                             i.fa-solid.fa-greater-than
                             |
@@ -521,7 +521,7 @@
 
           .row.mt-4
             .col-lg-11
-              .row.align-items-center.p-4.bg-23
+              .row.align-items-center.p-4.bg-23(data-aos="fade-right")
                 .col-lg-7
                   p #[b De organización:]
                   p Ejecución presupuestal: mide el cumplimiento de la ejecución del presupuesto.
@@ -537,7 +537,7 @@
               figure
                 img(src='@/assets/curso/tema2/img23.png', alt='', style="width: 480px").m-auto
 
-            .col-lg-7.bg-23.p-4
+            .col-lg-7.bg-23.p-4(data-aos="fade-right")
               p #[b Indicadores de recursos humanos]
               p Productividad de mano de obra: mide el rendimiento laboral de los trabajadores.
 
@@ -550,7 +550,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2 Indicadores financieros  
+      h2(data-aos="fade-right") 2.2 Indicadores financieros  
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Otras técnicas de análisis financiero
+      h1(data-aos="fade-right") Otras técnicas de análisis financiero
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -16,11 +16,11 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1 Valor Económico Agregado (EVA)
+      h2(data-aos="fade-right") 3.1 Valor Económico Agregado (EVA)
 
     .row.align-items-center
       .col-lg-7
-        .bloque-texto-c.bg-29.p-4
+        .bloque-texto-c.bg-29.p-4(data-aos="fade-right")
           i.fas.fa-quote-right
           h3.mb-2 El Valor Económico Agregado (EVA) es un método de desempeño financiero para calcular el verdadero beneficio económico de una empresa.
           span - (Coral, D., L. y Gudiño, E., 2014). 
@@ -54,7 +54,7 @@
                   .p-4.w-100.align-items-center
                     p Es importante tener en cuenta lo siguiente:
 
-                    ul.lista-ul--color
+                    ul.lista-ul--color(data-aos="fade-right")
                       li.d-flex.bg-20.p-2
                         i.fa-solid.fa-greater-than
                         |
@@ -111,7 +111,7 @@
       .col-lg-10
         p Determinar el costo promedio ponderado de capital (CPPC):  es la tasa de rendimiento que debe tener la empresa sobre sus inversiones. Para su cálculo se tiene en cuenta los pasivos y la Tasa Interna de Oportunidad (TIO).
 
-        .row.justify-content-center.align-items-center.bg-23.p-4
+        .row.justify-content-center.align-items-center.bg-23.p-4(data-aos="fade-right")
           .col-lg-6
             figure
               img(src='@/assets/curso/tema3/img5.svg', alt='', style="width: 540px").m-auto
@@ -127,7 +127,7 @@
 
             p.bg-20.p-2 Calcular el Valor Económico Agregado (EVA).
 
-        .row.justify-content-center.align-items-center.bg-21.p-4.mt-4
+        .row.justify-content-center.align-items-center.bg-21.p-4.mt-4(data-aos="fade-right")
           .col-lg-5.d-lg-block.d-none
             figure
               img(src='@/assets/curso/tema3/img2.png', alt='', style="width: 373px").m-auto
@@ -335,7 +335,7 @@
 
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-11
-        .row.justify-content-center.bg-1.p-4
+        .row.justify-content-center.bg-1.p-4(data-aos="fade-right")
 
           .col-lg-4.d-lg-block.d-none
             figure
@@ -419,11 +419,11 @@
                     td.text-start.min-padding Utilidad del ejercicio antes de intereses
                     td.text-end.min-padding $43.255.200
 
-          p.p-4.bg-12.text-center Determinar el costo promedio ponderado de capital (CPPC).
+          p.p-4.bg-12.text-center(data-aos="fade-right") Determinar el costo promedio ponderado de capital (CPPC).
 
           p La empresa contable SAS desea obtener un rendimiento del 30% (TIO); el costo de las obligaciones financieras es del 21% anual.
 
-          .row.justify-content-center.align-items-center.bg-23.p-4
+          .row.justify-content-center.align-items-center.bg-23.p-4(data-aos="fade-right")
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema3/img18.svg', alt='', style="width: 540px").m-auto
@@ -511,7 +511,7 @@
         figure
           img(src='@/assets/curso/tema3/img19.png', alt='', style="width: 505px").m-auto
 
-    .row.justify-content-center.align-items-center.bg-1.p-4.mt-4
+    .row.justify-content-center.align-items-center.bg-1.p-4.mt-4(data-aos="fade-right")
       .col-lg-5.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema3/img26.png', alt='', style="width: 421px").m-auto
@@ -546,7 +546,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Beneficios antes de intereses, impuestos, depreciaciones y amortizaciones (EBITDA)
+      h2(data-aos="fade-right") 3.2 Beneficios antes de intereses, impuestos, depreciaciones y amortizaciones (EBITDA)
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -651,7 +651,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 Punto de equilibrio
+      h2(data-aos="fade-right") 3.3 Punto de equilibrio
 
     .row.justify-content-center.mt-4
       .col-lg-12(data-aos="fade-down")
@@ -697,7 +697,7 @@
       .col-lg-8 
         p La fórmula del punto de equilibrio es la siguiente:
 
-        .row.align-items-center.p-4.justify-content-center.bg-23
+        .row.align-items-center.p-4.justify-content-center.bg-23(data-aos="fade-right")
           .col-lg-5
             figure
               img(src='@/assets/curso/tema3/img36.svg', alt='', style="width: 250px").m-auto
@@ -723,7 +723,7 @@
 
     .row.justify-content-center.mt-4
       .col-lg-10
-        .row.p-4.justify-content-center.bg-23
+        .row.p-4.justify-content-center.bg-23(data-aos="fade-right")
           .col-lg-4
             p CF:  $40.000.000
             p PVU: $40.000 /unidad
@@ -814,7 +814,7 @@
         figure
           img(src='@/assets/curso/tema3/img43.png', alt='', style="width: 400px").m-auto
       .col-lg-8
-        .row.align-items-center.bg-23.justify-content-center
+        .row.align-items-center.bg-23.justify-content-center(data-aos="fade-right")
           .col-lg-5
             figure
               img(src='@/assets/curso/tema3/img44.svg', alt='', style="width: 259px").m-auto
@@ -888,7 +888,7 @@
 
     .row.mt-4.align-items-center
       .col-lg-8
-        .row.align-items-center.bg-23.justify-content-center
+        .row.align-items-center.bg-23.justify-content-center(data-aos="fade-right")
           .col-lg-5
             figure
               img(src='@/assets/curso/tema3/img48.svg', alt='', style="width: 259px").m-auto
@@ -973,7 +973,7 @@
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido
-      h2 3.4 Generación de informes
+      h2(data-aos="fade-right") 3.4 Generación de informes
 
     p Para la generación de informes financieros es importante tener en cuenta los estándares internacionales y la normatividad vigente, ya que la presentación y revelación de estos debe cumplir los lineamientos que allí se establecen.
 
@@ -986,7 +986,7 @@
           .col-lg-12
             p.mt-4 Cabe resaltar que el analista financiero debe tener pleno conocimiento de la empresa, del entorno en el cual se desenvuelve, de la planeación estratégica y de los objetivos que persigue a corto, mediano y largo plazo. Asimismo, tendrá el conocimiento para la presentación del compendio de los estados financieros de propósito general que se relacionan en la Norma Internacional de Contabilidad (NIC) 1, los cuales se relacionan a continuación:
 
-            ul.lista-ul--color.p-3
+            ul.lista-ul--color.p-3(data-aos="fade-right")
               li.d-flex.bg-20.p-2
                 i.fa-solid.fa-greater-than
                 |
@@ -1026,7 +1026,7 @@
           img(src='@/assets/curso/tema3/img55.png', alt='', style="width: 400px").m-auto
 
       .col-lg-8
-        p.bg-11.p-5.mt-2 Para complementar los informes financieros es importante aplicar las diferentes técnicas e indicadores de análisis financiero, en las que se obtienen datos cuantitativos y cualitativos que permiten tomar decisiones de inversión, rentabilidad y endeudamiento. Es indispensable que se realice la interpretación de los resultados obtenidos, teniendo en cuenta que los valores por sí solos no son comprensibles para los diferentes usuarios de la información financiera; por lo tanto, se realiza el informe cualitativo, teniendo en cuenta los datos generados en el análisis horizontal y vertical, además, de los indicadores de liquidez, rentabilidad, actividad y endeudamiento.
+        p.bg-11.p-5.mt-2(data-aos="fade-right") Para complementar los informes financieros es importante aplicar las diferentes técnicas e indicadores de análisis financiero, en las que se obtienen datos cuantitativos y cualitativos que permiten tomar decisiones de inversión, rentabilidad y endeudamiento. Es indispensable que se realice la interpretación de los resultados obtenidos, teniendo en cuenta que los valores por sí solos no son comprensibles para los diferentes usuarios de la información financiera; por lo tanto, se realiza el informe cualitativo, teniendo en cuenta los datos generados en el análisis horizontal y vertical, además, de los indicadores de liquidez, rentabilidad, actividad y endeudamiento.
 
         .row.mt-4.justify-content-center
           .col-lg-4.d-lg-block.d-none
