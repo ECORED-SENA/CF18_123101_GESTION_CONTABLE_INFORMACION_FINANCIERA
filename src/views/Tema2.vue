@@ -1110,7 +1110,7 @@
               p.text-small.mb-0.text-white Se invita a leer el documento Indicadores financieros, donde se aborda una recopilación clara y concisa de los principales indicadores financieros utilizados para evaluar la salud económica de una empresa.
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/Indicadores_financieros.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
