@@ -16,13 +16,13 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-right") 3.1 Valor Económico Agregado (EVA)
+      h2(data-aos="fade-right") 3.1 Valor económico agregado (EVA)
 
     .row.align-items-center
       .col-lg-7
         .bloque-texto-c.bg-29.p-4(data-aos="fade-right")
           i.fas.fa-quote-right
-          h3.mb-2 El Valor Económico Agregado (EVA) es un método de desempeño financiero para calcular el verdadero beneficio económico de una empresa.
+          h3.mb-2 El Valor económico agregado (EVA) es un método de desempeño financiero para calcular el verdadero beneficio económico de una empresa.
           span - (Coral, D., L. y Gudiño, E., 2014). 
 
         p.mt-4 Este método permite conocer la rentabilidad de la empresa, teniendo en cuenta que el resultado que genera ya tiene deducidos los costos y los gastos. Asimismo, permite analizar el incremento de la inversión de los inversionistas o socios.  
@@ -90,14 +90,14 @@
           p #[b Opción 1 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img7.svg", alt="", style="width: 490px")
+            img(src="@/assets/curso/tema3/img6.svg", alt="", style="width: 490px")
 
       .col-lg-6
         .row.p-4.align-items-center.bg-27.me-lg-2
           p #[b Opción 2 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img6.svg", alt="", style="width: 490px")
+            img(src="@/assets/curso/tema3/img7.svg", alt="", style="width: 490px")
 
     .row.align-items-center.bg-13.mt-4.p-3
       .col-lg-1.d-lg-block.d-none
@@ -172,50 +172,53 @@
                   thead
                     tr(style="background-color: #FD9826")
                       th Concepto
-                      th Valor 2019
+                      th Valor
                   tbody
                     tr(style="background-color: #F6F6F6")
                       td.text-start Ingresos operacionales
-                      td.text-end 
+                      td.text-end -
                     tr(style="background-color: #FFFF")
-                      td.text-start Ingresos por actividades ordinarias
+                      td.text-start #[b Ingresos por actividades ordinarias]
                       td.text-end $300.000.000
                     tr(style="background-color: #F6F6F6")
                       td.text-start Costo de ventas
                       td.text-end $189.600.000
                     tr(style="background-color: #FFFF")
                       td.text-start #[b Utilidad bruta]
-                      td.text-end #[b $110.400.000]
+                      td.text-end $110.400.000
                     tr(style="background-color: #F6F6F6")
+                      td.text-start #[b Gastos operacionales]
+                      td.text-end -
+                    tr(style="background-color: #FFFF")
                       td.text-start Gastos de administración
                       td.text-end $28.800.000
-                    tr(style="background-color: #FFFF")
+                    tr(style="background-color: #F6F6F6")
                       td.text-start Gastos de ventas
                       td.text-end $12.000.000
-                    tr(style="background-color: #F6F6F6")
-                      td.text-start #[b Utilidad operacional]
-                      td.text-end #[b $69.600.000]
                     tr(style="background-color: #FFFF")
+                      td.text-start #[b Utilidad operacional]
+                      td.text-end $69.600.000
+                    tr(style="background-color: #F6F6F6")
                       td.text-start Ingresos no operacionales
                       td.text-end $2.400.000
-                    tr(style="background-color: #F6F6F6")
+                    tr(style="background-color: #FFFF")
                       td.text-start Gastos financieros
                       td.text-end $1.200.000
-                    tr(style="background-color: #FFFF")
-                      td.text-start #[b Utilidad antes de impuestos]
-                      td.text-end #[b $70.800.000]
                     tr(style="background-color: #F6F6F6")
+                      td.text-start #[b Utilidad antes de impuestos]
+                      td.text-end $70.800.000
+                    tr(style="background-color: #FFFF")
                       td.text-start Provisión para impuesto de renta
                       td.text-end $24.072.000
-                    tr(style="background-color: #FFFF")
-                      td.text-start #[b Utilidad líquida]
-                      td.text-end #[b $46.728.000]
                     tr(style="background-color: #F6F6F6")
+                      td.text-start #[b Utilidad líquida]
+                      td.text-end $46.728.000
+                    tr(style="background-color: #FFFF")
                       td.text-start Reservas
                       td.text-end $4.672.800
-                    tr(style="background-color: #FFFF")
+                    tr(style="background-color: #F6F6F6")
                       td.text-start #[b Utilidad del ejercicio]
-                      td.text-end #[b $42.055.200]
+                      td.text-end $42.055.200
 
           .row.justify-content-center.align-items-center.mt-4
             .col-lg-11
@@ -231,7 +234,7 @@
                         thead
                           tr(style="background-color: #FD9826")
                             th.min-padding Concepto
-                            th.min-padding Valor 2019
+                            th.min-padding Valor
                         tbody
                           tr(style="background-color: #F6F6F6")
                             td.text-start.min-padding #[b Activo corriente]
@@ -276,7 +279,7 @@
                       thead
                         tr(style="background-color: #FD9826")
                           th.min-padding(style="width:40%") Concepto
-                          th.min-padding(style="width:60%") Valor 2019
+                          th.min-padding(style="width:60%") Valor
                       tbody
                         tr(style="background-color: #F6F6F6")
                           td.text-start.min-padding #[b Pasivo corriente]
@@ -312,7 +315,7 @@
                       thead
                         tr(style="background-color: #FD9826")
                           th.min-padding(style="width:60%") Concepto
-                          th.min-padding(style="width:40%") Valor 2019
+                          th.min-padding(style="width:40%") Valor
                       tbody
                         tr(style="background-color: #F6F6F6")
                           td.text-start.min-padding Capital
@@ -356,7 +359,7 @@
                 thead
                   tr(style="background-color: #FD9826")
                     th.min-padding(style="width:40%") Concepto
-                    th.min-padding(style="width:60%") Valor 2019
+                    th.min-padding(style="width:60%") Valor
                 tbody
                   tr(style="background-color: #F6F6F6")
                     td.text-start.min-padding Proveedores
@@ -407,7 +410,7 @@
                 thead
                   tr(style="background-color: #FD9826")
                     th.min-padding(style="width:60%") Concepto
-                    th.min-padding(style="width:40%") Valor 2019
+                    th.min-padding(style="width:40%") Valor
                 tbody
                   tr(style="background-color: #F6F6F6")
                     td.text-start.min-padding Utilidad neta del ejercicio
@@ -540,7 +543,7 @@
               p.text-small.mb-0.text-white Para profundizar en este tema por favor revise el Capítulo VII del texto: Ortiz, A., H. (2011). Análisis financiero aplicado y principios de administración financiera (14a ed.). Universidad Externado de Colombia. 
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="https://www.academia.edu/26760979/Analisis_Financiero_Aplicado_pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
@@ -553,7 +556,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img27.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es un indicador financiero que mide la capacidad de la empresa de generar beneficios económicos en el desarrollo de sus actividades.  Al calcular el indicador se tiene en cuenta determinar la utilidad operacional, sumando las depreciaciones y amortizaciones, sin que sean descontados los intereses e impuestos. Es conocido por sus siglas en inglés earnings before interests, taxes, depreciations and amortizations.
+        p.mb-0 Es un indicador financiero que mide la capacidad de la empresa de generar beneficios económicos en el desarrollo de sus actividades.  Al calcular el indicador se tiene en cuenta determinar la utilidad operacional, sumando las depreciaciones y amortizaciones, sin que sean descontados los intereses e impuestos. Es conocido por sus siglas en inglés #[i earnings before interests, taxes, depreciations and amortizations].
 
     .row.mt-4.justify-content-center
       .col-lg-4.d-lg-block.d-none
@@ -580,16 +583,17 @@
               p.text-white La empresa Contable SAS presenta el estado de resultados integral, con el fin de calcular el EBITDA, las depreciaciones y amortizaciones equivalen a $6.000.000.
 
     .row.mt-4.justify-content-center
-      .col-lg-5
+      .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 28. 
-          span Cálculo del EBITDA – Empresa Contable SAS (2019)
+          span Cálculo del EBITDA – empresa contable SAS (2019)
+        
         .tabla-a.color-acento-contenido.mt-4
           table
             thead
               tr(style="background-color: #FD9826")
-                th.min-padding(style="width: 70%") Concepto
-                th.min-padding(style="width: 30%") Valor 2019
+                th.min-padding Concepto
+                th.min-padding.text-end Valor
             tbody
               tr(style="background-color: #F6F6F6")
                 td.text-start.min-padding Utilidad bruta
@@ -610,36 +614,36 @@
                 td.text-start.min-padding #[b (=) EBITDA]
                 td.text-end.min-padding #[b Pendiente de calcular]
 
-      .col-lg-5
+      .col-lg-7.mt-4
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 29. 
-          span Cálculo del EBITDA – Empresa Contable SAS (2019)
-        
+          span Cálculo del EBITDA – empresa contable SAS (2019)
         .tabla-a.color-acento-contenido.mt-4
-          table
+          table(style="width: 100%; table-layout: fixed")
             thead
               tr(style="background-color: #FD9826")
-                th.min-padding(style="width:260px") Concepto
-                th.min-padding(style="width:260px") Valor 2019
+                th.min-padding(style="width: 70%") Concepto
+                th.min-padding.text-end(style="width: 30%") Valor
             tbody
               tr(style="background-color: #F6F6F6")
-                td.min-padding Utilidad bruta
+                td.text-start.min-padding Utilidad bruta
                 td.text-end.min-padding $110.400.000
               tr(style="background-color: #FFFF")
-                td.min-padding (–) Gastos de administración
+                td.text-start.min-padding (–) Gastos de administración
                 td.text-end.min-padding $28.800.000
               tr(style="background-color: #F6F6F6")
-                td.min-padding (–) Gastos de ventas
+                td.text-start.min-padding (–) Gastos de ventas
                 td.text-end.min-padding $12.000.000
               tr(style="background-color: #FFFF")
-                td.min-padding #[b (=) Utilidad operativa (EBIT)]
+                td.text-start.min-padding #[b (=) Utilidad operativa (EBIT)]
                 td.text-end.min-padding #[b $69.600.000]
               tr(style="background-color: #F6F6F6")
-                td.min-padding (+) Depreciaciones y amortizaciones
+                td.text-start.min-padding (+) Depreciaciones y amortizaciones
                 td.text-end.min-padding $6.000.000
               tr(style="background-color: #FFFF")
-                td.min-padding #[b (=) EBITDA]
+                td.text-start.min-padding #[b (=) EBITDA]
                 td.text-end.min-padding #[b $75.600.000]
+
 
 
     .row.mt-4.justify-content-center.align-items-center
@@ -739,7 +743,7 @@
       .col-12 
         .p-5
           .row.justify-content-center
-            .col-lg-10 
+            .col-lg-11
               p La empresa contable SAS debe vender 8.000 unidades para no perder, ni obtener utilidad.
 
               p Seguidamente, se calcula el punto de equilibrio en pesos con la siguiente fórmula:
@@ -763,35 +767,35 @@
 
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 30. 
-                    span Análisis de Resultados Operacionales – Año 2020
+                    span Análisis de resultados operacionales – año 2020
                   
                   .tabla-a.color-acento-contenido.mt-4
                     table(style="table-layout: fixed; width: auto;")
                       thead
                         tr(style="background-color: #FD9826")
                           th.min-padding(style="width:250px") Concepto
-                          th.min-padding(style="width:250px") Valor 2020
+                          th.min-padding(style="width:250px") Valor
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding Ingresos operacionales
+                          td.min-padding.text-end Ingresos operacionales
                           td.text-end.min-padding $441.212.120
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding Costos variables
+                          td.min-padding.text-end Costos variables
                           td.text-end.min-padding $386.060.605
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding #[b Margen de contribución]
+                          td.min-padding.text-end #[b Margen de contribución]
                           td.text-end.min-padding #[b $55.151.515]
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding Costos fijos
+                          td.min-padding.text-end Costos fijos
                           td.text-end.min-padding $40.000.000
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding #[b Utilidad operacional]
+                          td.min-padding.text-end #[b Utilidad operacional]
                           td.text-end.min-padding #[b $15.151.515]
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding Provisión para impuestos
+                          td.min-padding.text-end Provisión para impuestos
                           td.text-end.min-padding $5.151.515
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding #[b Utilidad neta]
+                          td.min-padding.text-end #[b Utilidad neta]
                           td.text-end.min-padding #[b $10.000.000]
 
                 .col-lg-4.d-lg-block.d-none
@@ -836,7 +840,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mb-0.text-white #[b Ejemplo:] 
-              p.text-white A partir de la información del ejemplo anterior se desea obtener una utilidad de 10.000.000 al finalizar el período.
+              p.text-white A partir de la información del ejemplo anterior se desea obtener una utilidad de $10.000.000 al finalizar el período.
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-5
@@ -866,7 +870,7 @@
             thead
               tr(style="background-color: #FD9826")
                 th.min-padding Concepto
-                th.min-padding Valor 2020
+                th.min-padding Valor
             tbody
               tr
                 td.text-start.min-padding Ingresos operacionales
@@ -895,11 +899,11 @@
           .col-lg-7
             p.mt-4 Donde:
 
-            p.bg-20.p-1 #[b PEQ:] Punto de equilibrio.
-            p.bg-20.p-1 #[b CF:] Costos fijos.
-            p.bg-20.p-1 #[b PVU:] Precio de venta unitario.
-            p.bg-20.p-1 #[b CVU:] Costo variable unitario.
-            p.bg-20.p-1 #[b UD:] Utilidad deseada.
+            p.bg-20.p-1 #[b PEQ:] punto de equilibrio.
+            p.bg-20.p-1 #[b CF:] costos fijos.
+            p.bg-20.p-1 #[b PVU:] precio de venta unitario.
+            p.bg-20.p-1 #[b CVU:] costo variable unitario.
+            p.bg-20.p-1 #[b UD:] utilidad deseada.
 
       .col-lg-4.d-lg-block.d-none
         figure
@@ -944,7 +948,7 @@
             thead
               tr(style="background-color: #FD9826")
                 th.min-padding Concepto
-                th.min-padding Valor 2020
+                th.min-padding Valor
             tbody
               tr
                 td.text-start.min-padding Ingresos operacionales

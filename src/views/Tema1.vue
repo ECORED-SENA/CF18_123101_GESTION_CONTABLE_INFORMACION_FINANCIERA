@@ -114,16 +114,16 @@
                 img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 400px").m-auto
             .col-lg-7
               figure
-                img(src="@/assets/curso/tema1/img10.svg", alt="", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img10.svg", alt="Fórmula para calcular el porcentaje de activo: relación entre una cuenta del activo y el total de activos, multiplicada por 100.", style="width: 400px").m-auto
               
               p.p-4.bg-4.mt-2(data-aos="fade-right") Para desarrollar el procedimiento en el pasivo y patrimonio se toma como base la sumatoria de pasivo y patrimonio, luego se calcula el porcentaje que representa cada una de las cuentas de estos elementos. 
 
               p Las fórmulas que se aplican son las siguientes:
 
               figure
-                img(src="@/assets/curso/tema1/img11.svg", alt="", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: relación entre una cuenta del pasivo y la suma del total pasivo más patrimonio, multiplicada por 100.", style="width: 400px").m-auto
               figure
-                img(src="@/assets/curso/tema1/img12.svg", alt="", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img12.svg", alt="Fórmula para calcular el porcentaje de patrimonio: relación entre una cuenta del pat", style="width: 400px").m-auto
 
 
     .tarjeta.bg-14.p-4.mt-4
@@ -144,10 +144,10 @@
           .tarjeta.tarjeta--azul.mb-6.px-4(style='background-color: white !important')
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
-                .col-lg-12
+                .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 1.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - Activos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - activos corrientes
 
 
                   .tabla-a.color-acento-contenido.mt-4
@@ -158,9 +158,9 @@
 
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.text-start #[b Activos corrientes]
-                          td.text-end #[b 2019]
-                          td.text-end #[b Análisis vertical]
+                          td.text-center #[b Activos corrientes]
+                          td.text-center #[b 2019]
+                          td.text-center #[b Análisis vertical]
                         tr(style="background-color: #FFFF")
                           td.text-start Efectivo y equivalentes de efectivo
                           td.text-end $362.458
@@ -188,10 +188,10 @@
 
 
               .row.justify-content-center.align-items-center.my-lg-3
-                .col-lg-12
+                .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 2.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - Activos no corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - activos no corrientes
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -200,9 +200,9 @@
                           th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.text-start #[b Activos no corrientes]
-                          td.text-end #[b 2019]
-                          td.text-end #[b Análisis vertical]
+                          td.text-center #[b Activos no corrientes]
+                          td.text-center #[b 2019]
+                          td.text-center #[b Análisis vertical]
                         tr(style="background-color: #FFFF")
                           td.text-start Activos financieros
                           td.text-end $43.600
@@ -237,10 +237,10 @@
                           td.text-end #[b 100,00 %]
 
               .row.justify-content-center.align-items-center.my-lg-3
-                .col-lg-12
+                .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 3.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos corrientes
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -249,9 +249,9 @@
                           th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.text-start #[b Pasivos corrientes]
-                          td.text-end #[b 2019]
-                          td.text-end #[b Análisis vertical]
+                          td.text-center #[b Pasivos corrientes]
+                          td.text-center #[b 2019]
+                          td.text-center #[b Análisis vertical]
                         tr(style="background-color: #FFFF")
                           td.text-start Obligaciones financieras
                           td.text-end $2.193.035
@@ -283,10 +283,10 @@
 
 
               .row.justify-content-center.align-items-center.my-lg-3
-                .col-lg-12
+                .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 4.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos corrientes
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -295,9 +295,9 @@
                           th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.text-start #[b Pasivos no corrientes]
-                          td.text-end #[b 2019]
-                          td.text-end #[b Análisis vertical]
+                          td.text-center #[b Pasivos no corrientes]
+                          td.text-center #[b 2019]
+                          td.text-center #[b Análisis vertical]
                         tr(style="background-color: #FFFF")
                           td.text-start Obligaciones financieras
                           td.text-end $4.896.265
@@ -321,10 +321,10 @@
 
 
               .row.justify-content-center.align-items-center.my-lg-3
-                .col-lg-12
+                .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 5.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - Pasivos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos corrientes
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -333,9 +333,9 @@
                           th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.text-start #[b Patrimonio]
-                          td.text-end #[b 2019]
-                          td.text-end #[b Análisis vertical]
+                          td.text-center #[b Patrimonio]
+                          td.text-center #[b 2019]
+                          td.text-center #[b Análisis vertical]
                         tr(style="background-color: #FFFF")
                           td.text-start Capital suscrito y pagado
                           td.text-end $550.000
@@ -368,23 +368,23 @@
             .col-auto.bg-c6(data-aos="fade-left")
               .row.align-items-center
                 .col
-                  h3.mb-0 Planeación  
+                  h3.mb-0 Activo  
 
           .row.align-items-center.justify-content-center
             .col-lg-7
               p Se observa que en el año 2019 en la cuenta de efectivo y equivalentes de efectivo se encuentra registrado un valor de $362.458 y el total de activo es $23.763.474. Para calcular el porcentaje se divide el valor del efectivo sobre el total de activo, seguidamente se multiplica por 100, aplicando la fórmula se obtiene el siguiente resultado:
 
               figure
-                img(src="@/assets/curso/tema1/img14.svg", alt="", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img14.svg", alt="Fórmula para calcular el porcentaje del efectivo sobre el total de activos: división del valor de la cuenta de efectivo entre el total de activos, multiplicado por 100.", style="width: 400px").m-auto
               figure
-                img(src="@/assets/curso/tema1/img15.svg", alt="", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img15.svg", alt="Sustitución numérica en la fórmula anterior: división de 5,362,468 entre 339,376,474, multiplicado por 100.", style="width: 400px").m-auto
             .col-lg-5.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/tema1/img16.png', alt='', style="width: 505px").m-auto
 
           .row.justify-content-center.mt-4
             .col-lg-10
-              p.p-4.bg-11(data-aos="fade-right") De acuerdo con el resultado generado se puede decir que el efectivo representa el 1.53% del activo total de la empresa.
+              p.p-4.bg-11(data-aos="fade-right") De acuerdo con el resultado generado se puede decir que el efectivo representa el 1.53 % del activo total de la empresa.
 
               .row.align-items-center.justify-content-center
                 .col-lg-5.d-lg-block.d-none
@@ -394,11 +394,11 @@
                   p En inventarios se tiene un valor de $3.919.395 y el activo total es $23.763.474. Para calcular el porcentaje se divide el valor de las inversiones sobre al activo total, como se relaciona a continuación:
 
                   figure
-                    img(src="@/assets/curso/tema1/img18.svg", alt="", style="width: 400px").m-auto
+                    img(src="@/assets/curso/tema1/img18.svg", alt="Fórmula para calcular el porcentaje de inventarios sobre el total de activos: división del valor de la cuenta de inventarios entre el total de activos, multiplicado por 100.", style="width: 400px").m-auto
                   figure.mt-2
-                    img(src="@/assets/curso/tema1/img19.png", alt="", style="width: 400px").m-auto
+                    img(src="@/assets/curso/tema1/img19.svg", alt="Sustitución numérica en la fórmula anterior: división de 55,919,395 entre 339,376,474, multiplicado por 100.", style="width: 400px").m-auto
                   
-                  p.p-4.bg-11.mt-4(data-aos="fade-right") Los inventarios representan el 16,49% del activo total.
+                  p.p-4.bg-11.mt-4(data-aos="fade-right") Los inventarios representan el 16,49 % del activo total.
                 
 
     .row.mb-2.ms-0.mt-4
@@ -412,11 +412,11 @@
         p Para calcular la participación en las cuentas del pasivo se analiza el concepto de obligaciones financieras equivalente a $2.193.035, el pasivo total sumado con el patrimonio da un valor de $23.763.474.
 
         figure
-          img(src="@/assets/curso/tema1/img20.svg", alt="", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img20.svg", alt="Fórmula para calcular el porcentaje de obligaciones financieras sobre el total de pasivo y patrimonio: división del valor de la cuenta de obligaciones entre la suma del pasivo más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
         figure.mt-2
-          img(src="@/assets/curso/tema1/img21.svg", alt="", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img21.svg", alt="Sustitución numérica en la fórmula anterior: división de 52,193,095 entre 565,726,474, multiplicado por 100.", style="width: 400px").m-auto
         
-        p.p-4.bg-12.mt-4(data-aos="fade-right") Las obligaciones financieras representan el 9,23% del total de pasivo más patrimonio.  
+        p.p-4.bg-12.mt-4(data-aos="fade-right") Las obligaciones financieras representan el 9,23 % del total de pasivo más patrimonio.  
 
       .col-lg-5.d-lg-block.d-none
         figure
@@ -434,9 +434,9 @@
         p En el patrimonio el capital equivale a $550.000 y la suma del pasivo + patrimonio es $23.763.474.
 
         figure
-          img(src="@/assets/curso/tema1/img23.svg", alt="", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img23.svg", alt="Fórmula para calcular el porcentaje del capital en el patrimonio: división del valor de la cuenta de capital entre la suma del pasivo más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
         figure.mt-2
-          img(src="@/assets/curso/tema1/img24.svg", alt="", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img24.svg", alt="Sustitución numérica en la fórmula anterior: división de 513,533,379 entre 565,726,474, multiplicado por 100.", style="width: 400px").m-auto
         
         p.p-4.bg-13.mt-4(data-aos="fade-right") El capital representa el 2,31 % sobre el patrimonio total de pasivo más patrimonio.
 
@@ -444,7 +444,7 @@
         figure
           img(src='@/assets/curso/tema1/img25.png', alt='', style="width: 505px").m-auto   
 
-    p.mt-2 Al finalizar el cálculo de cada una de las cuentas del activo debe dar la sumatoria del 100% y la suma de los porcentajes de pasivo y patrimonio debe dar de igual forma, de esta manera se constata la ecuación contable, en la que el activo es igual a pasivo más patrimonio.
+    p.mt-2 Al finalizar el cálculo de cada una de las cuentas del activo debe dar la sumatoria del 100 % y la suma de los porcentajes de pasivo y patrimonio debe dar de igual forma, de esta manera se constata la ecuación contable, en la que el activo es igual a pasivo más patrimonio.
 
     .row.mb-2.ms-0.mt-4
       .col-auto.bg-c3(data-aos="fade-left")
@@ -455,7 +455,7 @@
           .col
             h3.mb-0 Análisis vertical del estado de resultados
 
-    p.mt-4 Para determinar el análisis vertical en el estado de resultados se tiene como base el 100% de las ventas o ingresos por actividades ordinarias; posteriormente, se calcula la participación de cada una de las cuentas que intervienen en dicho estado financiero.
+    p.mt-4 Para determinar el análisis vertical en el estado de resultados se tiene como base el 100 % de las ventas o ingresos por actividades ordinarias; posteriormente, se calcula la participación de cada una de las cuentas que intervienen en dicho estado financiero.
 
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
@@ -466,7 +466,7 @@
           .col-lg.d-flex
             .p-4.w-100.align-items-center
               figure
-                img(src="@/assets/curso/tema1/img27.png", alt="", style="width: 293px").m-auto
+                img(src="@/assets/curso/tema1/img27.svg", alt="Fórmula para calcular el porcentaje de una cuenta del estado de resultados: división del valor de la cuenta entre el total de ventas, multiplicado por 100.", style="width: 293px").m-auto
 
     .tarjeta.bg-14.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -485,7 +485,7 @@
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 6.
-                span Estado de Resultados Integrales – Análisis Vertical 2019
+                span Estado de resultados integrales – análisis vertical 2019
 
               .tabla-a.color-acento-contenido.mt-4
                 table
@@ -494,9 +494,9 @@
                       th(colspan="3") COMPAÑÍA CONTABLE SAS ESTADO DEL RESULTADO INTEGRAL PARA LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2019 (Cifras expresadas en miles de pesos colombianos)
                   tbody
                     tr(style="background-color: #F6F6F6")
-                      td.text-start #[b Concepto]
-                      td.text-end #[b 2019]
-                      td.text-end #[b Análisis vertical]
+                      td.text-center #[b Concepto]
+                      td.text-center #[b 2019]
+                      td.text-center #[b Análisis vertical]
                     tr(style="background-color: #FFFF")
                       td.text-start Ingresos de actividades ordinarias
                       td.text-end $30.771.232
@@ -549,22 +549,22 @@
               .row.bg-13.p-4.align-items-center
                 .col-lg-5
                   figure.d-block.mx-auto
-                    img(src="@/assets/curso/tema1/img29.png", alt="", style="width: 293px")
+                    img(src="@/assets/curso/tema1/img29.svg", alt="Fórmula para calcular el porcentaje de una cuenta del estado de resultados: división del valor de la cuenta entre el total de ventas, multiplicado por 100.", style="width: 293px")
                   figure.mt-2.d-block.mx-auto
-                    img(src="@/assets/curso/tema1/img30.png", alt="", style="width: 293px")
+                    img(src="@/assets/curso/tema1/img30.svg", alt="Sustitución numérica en la fórmula anterior para el costo de ventas: división de 21,520,260 entre 30,771,232, multiplicado por 100.", style="width: 293px")
                 .col-lg-6
                   p.p-4.bg-4(data-aos="fade-right") El costo de ventas representa el 70 % del total de ingresos por actividades ordinarias.
 
-          p.mt-4 El resultado del ejercicio refleja una utilidad de $788.471 y las ventas o ingresos de actividades ordinarias a $ 30.771.232.
+          p.mt-4 El resultado del ejercicio refleja una utilidad de $788.471 y las ventas o ingresos de actividades ordinarias a $30.771.232.
 
           .row.justify-content-center
             .col-lg-8
               .row.bg-16.p-4.align-items-center
                 .col-lg-5
                   figure.d-block.mx-auto
-                    img(src="@/assets/curso/tema1/img31.png", alt="", style="width: 293px")
+                    img(src="@/assets/curso/tema1/img31.svg", alt="Fórmula para calcular el porcentaje de utilidad sobre ventas: división del valor de la utilidad entre el total de ventas, multiplicado por 100.", style="width: 293px")
                   figure.mt-2.d-block.mx-auto
-                    img(src="@/assets/curso/tema1/img32.png", alt="", style="width: 293px")
+                    img(src="@/assets/curso/tema1/img32.svg", alt="Sustitución numérica en la fórmula anterior para la utilidad del ejercicio: división de 788,471 entre 30,771,232, multiplicado por 100.", style="width: 293px")
                 .col-lg-6
                   p.p-4.bg-5(data-aos="fade-right") La utilidad del ejercicio representa el 3 % del total de ingresos por actividades ordinarias.
                   
@@ -590,13 +590,13 @@
             p Para hallar la variación absoluta se toman los datos de dos períodos, restando el año actual y el año anterior, el cual se representa en valores monetarios. La fórmula aplicable es la siguiente:
 
             figure.d-block.mx-auto
-              img(src="@/assets/curso/tema1/img34.svg", alt="", style="width:352px").m-auto
+              img(src="@/assets/curso/tema1/img34.svg", alt="Fórmula de variación absoluta: resta del valor del año actual menos el valor del año anterior.", style="width:352px").m-auto
 
           .tarjeta.clr-paleYellow.p-4(titulo="Variación relativa")
             h4 Variación relativa
             p En el caso de la variación relativa se tiene en cuenta la variación absoluta (año actual – año anterior), dividido en el año anterior, cabe resaltar que se multiplica por 100 para obtener el porcentaje.
             figure.d-block.mx-auto
-              img(src="@/assets/curso/tema1/img35.svg", alt="", style="width:462px").m-auto
+              img(src="@/assets/curso/tema1/img35.svg", alt="Fórmula de variación relativa: resta del valor del año actual menos el valor del año anterior, dividido entre el valor del año anterior y multiplicado por 100.", style="width:462px").m-auto
 
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
@@ -640,12 +640,12 @@
           .row.bg-13.p-4.align-items-center.mt-4.justify-content-center
             .col-lg-7
               figure.d-block.mx-auto
-                img(src="@/assets/curso/tema1/img36.svg", alt="", style="width: 560px")
+                img(src="@/assets/curso/tema1/img36.svg", alt="Imagen con fórmulas de variación absoluta y relativa que incluyen su expresión general y un ejemplo numérico con valores de 362,458 y 689,032, resultando en una variación absoluta de -362,575 y una variación relativa de -47.40 %.", style="width: 560px")
             .col-lg-4.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/tema1/img37.png', alt='', style="width: 363px").m-auto
 
-            p.mt-4 #[b Interpretación:] se observa que la cuenta de efectivo y equivalente de efectivo de la empresa Contable SAS presentó una disminución de -$326.575, equivalente a 47,40%, respecto al año anterior.
+            p.mt-4 #[b Interpretación:] se observa que la cuenta de efectivo y equivalente de efectivo de la empresa Contable SAS presentó una disminución de #[b -$326.575], equivalente a 47,40 %, respecto al año anterior.
           
           p.mt-4 El estado de situación financiera presenta las siguientes variaciones absolutas y relativas:
 
@@ -655,10 +655,10 @@
           .tarjeta.tarjeta--azul.mb-6.px-4(style='background-color: white !important')
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
+                  .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
                       h5 Tabla 8.
-                      span Análisis Financiero Integral de la Compañía Contable SAS - Análisis horizontal - Activos corrientes
+                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - activos corrientes
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -667,11 +667,11 @@
                             th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA AL 31 DE DICIEMBRE DE 2019 y 2018 (Cifras expresadas en miles de pesos colombianos)
                         tbody
                           tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Activos corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b 2018]
-                            td.text-end #[b Variación absoluta]
-                            td.text-end #[b Variación %]
+                            td.text-center #[b Activos corrientes]
+                            td.text-center #[b 2019]
+                            td.text-center #[b 2018]
+                            td.text-center #[b Variación absoluta]
+                            td.text-center #[b Variación %]
                           tr(style="background-color: #FFFF")
                             td.text-start Efectivo y equivalentes de efectivo
                             td.text-end $362.458
@@ -711,10 +711,10 @@
 
     
                 .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
+                  .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
                       h5 Tabla 9.
-                      span Análisis Financiero Integral de la Compañía Contable SAS - Análisis horizontal - Activos no corrientes
+                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - activos no corrientes
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -723,11 +723,11 @@
                             th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA AL 31 DE DICIEMBRE DE 2019 y 2018 (Cifras expresadas en miles de pesos colombianos)
                         tbody
                           tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Activos no corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b 2018]
-                            td.text-end #[b Variación absoluta]
-                            td.text-end #[b Variación %]
+                            td.text-center #[b Activos no corrientes]
+                            td.text-center #[b 2019]
+                            td.text-center #[b 2018]
+                            td.text-center #[b Variación absoluta]
+                            td.text-center #[b Variación %]
                           tr(style="background-color: #FFFF")
                             td.text-start Activos financieros
                             td.text-end $43.600
@@ -779,10 +779,9 @@
 
 
                 .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
+                  .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 10.
-                      span Análisis Financiero Integral de la Compañía Contable SAS - Análisis horizontal - Pasivos corrientes
+                      h5 Tabla 10.integral de la compañía contable SAS - análisis horizontal - pasivos corrientes
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -791,11 +790,11 @@
                             th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA AL 31 DE DICIEMBRE DE 2019 y 2018 (Cifras expresadas en miles de pesos colombianos)
                         tbody
                           tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Pasivos corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b 2018]
-                            td.text-end #[b Variación absoluta]
-                            td.text-end #[b Variación %]
+                            td.text-center #[b Pasivos corrientes]
+                            td.text-center #[b 2019]
+                            td.text-center #[b 2018]
+                            td.text-center #[b Variación absoluta]
+                            td.text-center #[b Variación %]
                           tr(style="background-color: #FFFF")
                             td.text-start Obligaciones financieras
                             td.text-end $2.193.035
@@ -841,10 +840,10 @@
 
 
                 .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
+                  .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
                       h5 Tabla 11.
-                      span Análisis Financiero Integral de la Compañía Contable SAS - Análisis horizontal - Pasivos no corrientes
+                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - pasivos no corrientes
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -853,11 +852,11 @@
                             th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA AL 31 DE DICIEMBRE DE 2019 y 2018 (Cifras expresadas en miles de pesos colombianos)
                         tbody
                           tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Pasivos no corrientes]
-                            td.text-end #[b 2019]
-                            td.text-end #[b 2018]
-                            td.text-end #[b Variación absoluta]
-                            td.text-end #[b Variación %]
+                            td.text-center #[b Pasivos no corrientes]
+                            td.text-center #[b 2019]
+                            td.text-center #[b 2018]
+                            td.text-center #[b Variación absoluta]
+                            td.text-center #[b Variación %]
                           tr(style="background-color: #FFFF")
                             td.text-start Obligaciones financieras
                             td.text-end $4.896.265
@@ -891,10 +890,10 @@
 
 
                 .row.justify-content-center.align-items-center.my-lg-3
-                  .col-lg-12
+                  .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
                       h5 Tabla 12.
-                      span Análisis Financiero Integral de la Compañía Contable SAS - Análisis horizontal - Pasivos no corrientes
+                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - pasivos no corrientes
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -903,11 +902,11 @@
                             th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DE SITUACIÓN FINANCIERA AL 31 DE DICIEMBRE DE 2019 y 2018 (Cifras expresadas en miles de pesos colombianos)
                         tbody
                           tr(style="background-color: #F6F6F6")
-                            td.text-start #[b Patrimonio]
-                            td.text-end #[b 2019]
-                            td.text-end #[b 2018]
-                            td.text-end #[b Variación absoluta]
-                            td.text-end #[b Variación %]
+                            td.text-center #[b Patrimonio]
+                            td.text-center #[b 2019]
+                            td.text-center #[b 2018]
+                            td.text-center #[b Variación absoluta]
+                            td.text-center #[b Variación %]
                           tr(style="background-color: #FFFF")
                             td.text-start Capital suscrito y pagado
                             td.text-end $550.000
@@ -951,7 +950,7 @@
         p Procedimiento: estado de resultados integral.
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 13.
-          span Variación absoluta y relativa:
+          span Variación absoluta y relativa
 
         .tabla-a.color-acento-contenido.mt-4 
           table
@@ -960,8 +959,8 @@
                 th Concepto
                 th 2019
                 th 2018
-                th Variación Absoluta
-                th Variación Relativa
+                th Variación absoluta
+                th Variación relativa
             tbody(style="background-color: #F6F6F6")
               tr
                 td.text-start Efectivo y equivalentes de efectivo
@@ -983,7 +982,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img39.png', alt='', style="width: 363px").m-auto
 
-                p.mt-4 #[b Interpretación:] se observa que los gastos de ventas y distribución de la empresa Contable SAS presentó un aumento de $440.817, equivalente a 8,91%, respecto al año anterior.
+                p.mt-4 #[b Interpretación:] se observa que los gastos de ventas y distribución de la empresa Contable SAS presentó un aumento de $440.817, equivalente a 8,91 %, respecto al año anterior.
               
               p.mt-4 El estado de resultados integral presenta las siguientes variaciones absolutas y relativas:
 
@@ -991,7 +990,7 @@
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 14.
-                span Análisis Financiero Comparativo de la Compañía Contable SAS - Análisis horizontal 
+                span Análisis financiero comparativo de la compañía contable SAS - análisis horizontal 
 
               .tabla-a.color-acento-contenido.mt-4
                 table
@@ -1000,11 +999,11 @@
                       th(colspan="5") COMPAÑÍA CONTABLE SAS ESTADO DEL RESULTADO INTEGRAL PARA LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2019 Y 2018 (Cifras expresadas en miles de pesos colombianos)
                   tbody
                     tr(style="background-color: #F6F6F6")
-                      td.text-start #[b Concepto]
-                      td.text-end #[b 2019]
-                      td.text-end #[b 2018]
-                      td.text-end #[b Variación absoluta]
-                      td.text-end #[b Variación Relativa]
+                      td.text-center #[b Concepto]
+                      td.text-center #[b 2019]
+                      td.text-center #[b 2018]
+                      td.text-center #[b Variación absoluta]
+                      td.text-center #[b Variación relativa]
                     tr(style="background-color: #FFFF")
                       td.text-start Ingresos de actividades ordinarias
                       td.text-end $30.771.232

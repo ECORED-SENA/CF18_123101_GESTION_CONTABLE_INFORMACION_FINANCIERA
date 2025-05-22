@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Técnicas de análisis e indicadores financieros',
     Description:
-      'Es importante realizar el análisis de los estados financieros, mediante la aplicación de técnicas como el análisis vertical y horizontal, indicadores financieros y de gestión; aunado a ello, el cálculo de punto de equilibrio, el EBITDA y el Valor Económico Agregado (EVA), además, de otros elementos que contribuyen a la generación e implementación de estrategias con valor agregado para la organización.',
+      'Es importante realizar el análisis de los estados financieros, mediante la aplicación de técnicas como el análisis vertical y horizontal, indicadores financieros y de gestión; aunado a ello, el cálculo de punto de equilibrio, el EBITDA y el valor económico agregado (EVA), además, de otros elementos que contribuyen a la generación e implementación de estrategias con valor agregado para la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
@@ -153,7 +153,7 @@ export default {
         'Presidencia de la República. (2015). Decreto 2420 de 2015: Por el cual se expide el DUR de las Normas de Contabilidad e Información Financiera. Diario Oficial No. 49.674.',
       tipo: 'Decreto',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=170902',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
     },
     {
       tema:
@@ -174,51 +174,51 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Análisis horizontal:',
+      termino: 'Análisis horizontal',
       significado:
         'técnica de análisis que permite determinar la tendencia de cada una de las cuentas o grupo de cuentas de los estados financieros básicos en dos o más períodos contables, esta tendencia se puede expresar en pesos o en porcentaje.',
     },
     {
-      termino: 'Análisis vertical:',
+      termino: 'Análisis vertical',
       significado:
         'herramienta de análisis financiero que determina la participación de una cuenta en relación con un grupo o subgrupo de cuentas de los estados financieros.',
     },
     {
-      termino: 'Apalancamiento financiero:',
+      termino: 'Apalancamiento financiero',
       significado:
         'grado de endeudamiento de la organización, mide el nivel de utilización que hace la empresa de las diferentes fuentes de financiación externas.',
     },
     {
-      termino: 'Capital de trabajo:',
+      termino: 'Capital de trabajo',
       significado:
         'se refiere a las diferentes cuentas que conforman los rubros que se clasifican como activo corriente.',
     },
     {
-      termino: 'Capital de trabajo neto:',
+      termino: 'Capital de trabajo neto',
       significado:
         'se define como la diferencia entre los activos y los pasivos corrientes, muestra la disponibilidad de la organización para cumplir con sus compromisos periódicos.',
     },
     {
-      termino: 'Endeudamiento:',
+      termino: 'Endeudamiento',
       significado:
         'índice financiero que muestra el derecho que tienen los acreedores sobre los activos de la empresa, se conoce también como razón de apalancamiento.',
     },
     {
-      termino: 'Liquidez:',
+      termino: 'Liquidez',
       significado:
         'disponibilidad de activos corrientes de una empresa para responder por sus compromisos a corto plazo.',
     },
     {
-      termino: 'Razones financieras:',
+      termino: 'Razones financieras',
       significado:
         'índices usados en el análisis financiero que permiten relacionar cuentas de un estado financiero con otras cuentas del mismo estado o de otro diferente.',
     },
     {
-      termino: 'Rentabilidad:',
+      termino: 'Rentabilidad',
       significado: 'capacidad para generar utilidades con recursos propios.',
     },
     {
-      termino: 'Rotación:',
+      termino: 'Rotación',
       significado:
         'índices que miden la eficiencia de la administración de los recursos de una empresa por sus ejecutivos, se conoce también como razón de actividad.',
     },
@@ -279,8 +279,7 @@ export default {
     {
       referencia:
         'Varón, G., L. (2015). <em>Presentación de estados financieros.</em>',
-      link:
-        'https://www.cccucuta.org.co/media/Adjuntos_de_Noticias/presentacionestadosfinancierosctcp.pdf',
+      link: '',
     },
   ],
   creditos: [
@@ -289,7 +288,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {

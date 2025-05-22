@@ -49,7 +49,7 @@
             .col-lg-10
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 15.
-                span Pasos para la Definición y Aplicación de Indicadores de Gestión
+                span Pasos para la definición y aplicación de indicadores de gestión
 
               .tabla-a.color-acento-contenido.mt-4
                 table
@@ -63,7 +63,7 @@
                       td.text-start Definir objetivos y estrategias
                       td.text-start Saber qué se va a medir y su propósito dentro de la organización.
                     tr(style="background-color: #F6F6F6")
-                      td.text-start Precisar los Factores Críticos de Éxito (FCE)
+                      td.text-start Precisar los factores críticos de éxito (FCE)
                       td.text-start Identificar variables internas y externas que afectan el logro de objetivos.
                     tr(style="background-color: #FFFF")
                       td.text-start Relacionar el indicador para cada FCE
@@ -498,7 +498,7 @@
                   img(src="@/assets/curso/tema2/img18.svg", alt="", style="width: 399px")
 
           div(titulo="Resultado")
-            p.px-5 Mide el total de ventas realizadas por cada vendedor y el grupo
+            p.px-5 Mide el total de ventas realizadas por cada vendedor y el grupo.
 
             .row.justify-content-center
               .col-lg-6
@@ -538,7 +538,7 @@
                 img(src='@/assets/curso/tema2/img23.png', alt='', style="width: 480px").m-auto
 
             .col-lg-7.bg-23.p-4(data-aos="fade-right")
-              p #[b Indicadores de recursos humanos]
+              p #[b Indicadores de recursos humanos:]
               p Productividad de mano de obra: mide el rendimiento laboral de los trabajadores.
 
               figure
@@ -646,7 +646,7 @@
                 span Cálculo de indicadores financieros.
               
               figure
-                img(src='@/assets/curso/tema2/img33.svg', alt='Texto alternativo: Tabla del estado de resultados integral de la Empresa Contable SAS para 2019 y 2018, que presenta ingresos operacionales, costos, utilidad bruta, gastos, utilidad operativa, impuestos, utilidad líquida, reservas y utilidad del ejercicio, con valores en pesos colombianos. ', style="width: 820px").m-auto
+                img(src='@/assets/curso/tema2/img33.svg', alt='Tabla del estado de resultados integral de la Empresa Contable SAS para 2019 y 2018, que presenta ingresos operacionales, costos, utilidad bruta, gastos, utilidad operativa, impuestos, utilidad líquida, reservas y utilidad del ejercicio, con valores en pesos colombianos. ', style="width: 820px").m-auto
 
     .row.bg-9.mt-4
       .col-12
@@ -672,21 +672,29 @@
                             td.text-end $72.000.000
                             td.text-end $60.000.000
                           tr(style="background-color: #F6F6F6")
+                            td.text-start Más compras netas
+                            td.text-end -
+                            td.text-end -
+                          tr(style="background-color: #FFFF")
                             td.text-start Compras de contado
                             td.text-end $55.200.000
                             td.text-end $54.000.000
-                          tr(style="background-color: #FFFF")
+                          tr(style="background-color: #F6F6F6")
                             td.text-start Compras a crédito
                             td.text-end $148.800.000
                             td.text-end $120.000.000
-                          tr(style="background-color: #F6F6F6")
+                          tr(style="background-color: #FFFF")
                             td.text-start Igual mercancía disponible
                             td.text-end $276.000.000
                             td.text-end $234.000.000
-                          tr(style="background-color: #FFFF")
+                          tr(style="background-color: #F6F6F6")
                             td.text-start Menos inventario final de mercancías
                             td.text-end $86.400.000
                             td.text-end $72.000.000
+                          tr(style="background-color: #FFFF")
+                            td.text-start #[b Igual costo de ventas]
+                            td.text-end #[b $189.600.000]
+                            td.text-end #[b $162.000.000]
 
 
                 .row.justify-content-center.align-items-center
@@ -734,8 +742,8 @@
                         tbody
                           tr(style="background-color: #FFFF")
                             td.text-start #[b Activo corriente]
-                            td.text-end 
-                            td.text-end 
+                            td.text-end -
+                            td.text-end -
                           tr(style="background-color: #F6F6F6")
                             td.text-start Disponible
                             td.text-end $18.000.000
@@ -783,8 +791,8 @@
                         tbody
                           tr(style="background-color: #FFFF")
                             td.text-start #[b Pasivo corriente]
-                            td.text-end 
-                            td.text-end 
+                            td.text-end -
+                            td.text-end -
                           tr(style="background-color: #F6F6F6")
                             td.text-start Obligaciones financieras
                             td.text-end $28.800.000
@@ -1064,7 +1072,7 @@
               figure.mt-4
                 img(src='@/assets/curso/tema2/img56.svg', alt='', style="width: 603px").m-auto
 
-              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS por cada peso vendido generó el 15,01% de utilidad neta.
+              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS por cada peso vendido generó el 15,01 % de utilidad neta.
               
 
           div(titulo="Rentabilidad sobre el patrimonio")
@@ -1082,7 +1090,7 @@
                   figure
                     img(src='@/assets/curso/tema2/img58.svg', alt='', style="width: 524px")
 
-              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 51,78% sobre la inversión realizada por los socios.
+              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 51,78 % sobre la inversión realizada por los socios.
 
           div(titulo="Rentabilidad de la utilidad bruta sobre ventas")
 
@@ -1096,7 +1104,7 @@
               figure.mt-4
                 img(src='@/assets/curso/tema2/img60.svg', alt='', style="width: 603px").m-auto
 
-              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 36,8% de utilidad bruta sobre los ingresos operacionales generados.
+              p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 36,8 % de utilidad bruta sobre los ingresos operacionales generados.
               
 
     .tarjeta.bg-25.p-4.mt-4

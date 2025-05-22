@@ -220,18 +220,56 @@ figcaption
   padding-top: 4px !important
   padding-bottom: 4px !important
 
-@media (min-width: 992px) 
-  .tabla-responsive 
-    overflow-x: unset
+.tabla-simple table 
+  width: 100%
+  table-layout: fixed
+  border-collapse: collapse
+
+.tabla-simple th,
+.tabla-simple td 
+  max-width: 100%
+  word-wrap: break-word
+  padding: 0.4rem 0.5rem
+  border: 1px solid #ddd
+  font-size: 0.9rem
+
+.tabla-simple th 
+  background-color: #FD9826
+  color: #000
+  text-align: left
+
+.tabla-simple td.text-end 
+  text-align: right
+
+.tabla-simple tr:nth-child(even) 
+  background-color: #F6F6F6
+
+
+
   
-.tabla-responsive 
-  overflow-x: auto;
-  width: 100%;
+.col-lg-5.tabla-ajustada 
+  max-width: 505px
+  flex: 0 0 auto
 
 
-.tabla-a table 
-  table-layout: fixed;
-  width: auto;
+.tabla-ajustada .tabla-fija table 
+  table-layout: fixed
+  width: 100%
+
+
+.tabla-ajustada .tabla-fija th,
+.tabla-ajustada .tabla-fija td 
+  word-break: break-word
+  font-size: 0.9rem
+
+
+  
+
+    
+
+    
+
+  
 
 
 
