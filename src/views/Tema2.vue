@@ -491,11 +491,11 @@
             .row.justify-content-center
               .col-lg-6
                 figure
-                  img(src="@/assets/curso/tema2/img17.svg", alt="", style="width: 399px").m-auto
+                  img(src="@/assets/curso/tema2/img17.svg", alt="Fórmula de eficacia: ventas realizadas por semana, dividido entre visitas por semana y multiplicado por 100.", style="width: 399px").m-auto
 
               .col-lg-6.mt-lg-0.mt-2
                 figure
-                  img(src="@/assets/curso/tema2/img18.svg", alt="", style="width: 399px")
+                  img(src="@/assets/curso/tema2/img18.svg", alt="Sustitución numérica en la fórmula anterior para la utilidad del ejercicio: división de 50 entre 60, multiplicado por 100.", style="width: 399px")
 
           div(titulo="Resultado")
             p.px-5 Mide el total de ventas realizadas por cada vendedor y el grupo.
@@ -503,11 +503,11 @@
             .row.justify-content-center
               .col-lg-6
                 figure
-                  img(src="@/assets/curso/tema2/img19.svg", alt="", style="width: 399px").m-auto
+                  img(src="@/assets/curso/tema2/img19.svg", alt="Fórmula de resultado: es igual al total de ventas realizadas por semana.", style="width: 399px").m-auto
 
               .col-lg-6.mt-lg-0.mt-2
                 figure
-                  img(src="@/assets/curso/tema2/img20.svg", alt="", style="width: 399px")
+                  img(src="@/assets/curso/tema2/img20.svg", alt="Sustitución numérica en la fórmula anterior para el resultado del ejercicio: es igual a 50 ventas por semana.", style="width: 399px")
 
 
     .row.bg-22
@@ -527,7 +527,7 @@
                   p Ejecución presupuestal: mide el cumplimiento de la ejecución del presupuesto.
 
                   figure
-                  img(src="@/assets/curso/tema2/img21.svg", alt="", style="width: 540px")
+                  img(src="@/assets/curso/tema2/img21.svg", alt="Fórmula de ejecución presupuestal: total presupuesto ejecutado, dividido entre total presupuesto programado y multiplicado por 100.", style="width: 540px")
                 .col-lg-5.d-lg-block.d-none
                   figure
                     img(src='@/assets/curso/tema2/img22.png', alt='', style="width: 472px").m-auto
@@ -542,11 +542,11 @@
               p Productividad de mano de obra: mide el rendimiento laboral de los trabajadores.
 
               figure
-                img(src="@/assets/curso/tema2/img24.svg", alt="", style="width: 540px").m-auto
+                img(src="@/assets/curso/tema2/img24.svg", alt="Fórmula de productividad de mano de obra: producción, dividido entre horas trabajadas hombre.", style="width: 540px").m-auto
 
               p.mt-2 #[b Ausentismo:] mide el cumplimiento del horario de los trabajadores.
               figure
-                img(src="@/assets/curso/tema2/img25.svg", alt="", style="width: 430px").m-auto
+                img(src="@/assets/curso/tema2/img25.svg", alt="Fórmula de Ausentismo: horas ausentes hombre, dividido entre horas trabajadas hombre.", style="width: 430px").m-auto
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
@@ -876,11 +876,11 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img34.svg', alt='', style="width: 267px").m-auto
+                    img(src='@/assets/curso/tema2/img34.svg', alt='Fórmula de eficacia: activo corriente, dividido entre pasivo corriente.', style="width: 267px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img35.svg', alt='', style="width: 325px") 
+                    img(src='@/assets/curso/tema2/img35.svg', alt='Sustitución numérica en la fórmula anterior para la razón circulante del ejercicio: división de $142,800,000 entre $115,796,800 es igual a 1,23.', style="width: 325px") 
 
 
               p.px-5.mt-4 #[b Interpretación:] la empresa tiene una razón corriente de 1,23 en el año 2019, es decir, que por cada peso que la empresa debe en el corto plazo cuenta con $1,23 del activo corriente para respaldar la obligación.
@@ -895,11 +895,11 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img36.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img36.svg', alt='Fórmula de capital neto de trabajo (CNT) es igual a: activo corriente, menos pasivo corriente.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img37.svg', alt='', style="width: 504px")
+                    img(src='@/assets/curso/tema2/img37.svg', alt='Sustitución numérica en la fórmula anterior para el capital neto de trabajo del ejercicio: resta de $142,800,000 el valor de $115,796,800 es igual a $27,003,200.', style="width: 504px")
 
 
               p.px-5.mt-4 #[b Interpretación:] la empresa tiene una razón corriente de 1,23 en el año 2019, es decir, que por cada peso que la empresa debe en el corto plazo cuenta con $1,23 del activo corriente para respaldar la obligación.
@@ -912,11 +912,11 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img38.svg', alt='', style="width: 440px").m-auto
+                    img(src='@/assets/curso/tema2/img38.svg', alt='Fórmula de prueba acida es igual a: activo corriente, menos inventarios dividido por pasivo corriente.', style="width: 440px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img39.svg', alt='', style="width: 440px") 
+                    img(src='@/assets/curso/tema2/img39.svg', alt='Sustitución numérica en la fórmula anterior para la prueba acida del ejercicio: resta de $142,800,000 el valor de $86,400,000 dividido entre $115,796,800 es igual a 0,49.', style="width: 440px") 
 
 
               p.px-5.mt-4 #[b Interpretación:] la empresa Contable SAS tiene disponible $0,49 centavos para respaldar las obligaciones a corto plazo, sin tener que vender sus inventarios.
@@ -961,17 +961,17 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img41.svg', alt='', style="width: 460px").m-auto
+                    img(src='@/assets/curso/tema2/img41.svg', alt='Fórmula de rotación de cartera: ventas a crédito en el periodo, dividido entre cuentas por cobrar promedio.', style="width: 460px").m-auto
 
               p.px-5.mt-4 Para calcular el promedio de clientes se realiza la sumatoria del año 1 y el año 2, posteriormente se divide en dos para determinar el promedio.
 
-              p.px-5 La empresa contable SAS presenta la siguiente información de deudores a corto plazo, en la que se estima que el 90% corresponde a la cuenta de clientes
+              p.px-5 La empresa contable SAS presenta la siguiente información de deudores a corto plazo, en la que se estima que el 90 % corresponde a la cuenta de clientes
 
               figure
-                img(src='@/assets/curso/tema2/img42.svg', alt='', style="width: 513px").m-auto
+                img(src='@/assets/curso/tema2/img42.svg', alt='Ejercicio: suma de la cartera de deudores a corto plazo para el año 2019 $36,000,000 y para el año 2018 $32,400,000.', style="width: 513px").m-auto
 
               figure.mt-4
-                img(src='@/assets/curso/tema2/img43.svg', alt='', style="width: 512px").m-auto
+                img(src='@/assets/curso/tema2/img43.svg', alt='Sustitución numérica en la fórmula anterior para la rotación de cuentas por cobrar del ejercicio: divide a $192,000,000 entre $32,400,000 más $29,260,000 dividido por 2 es igual a 6,23.', style="width: 512px").m-auto
 
               p.px-5.mt-4 #[b Interpretación:] el resultado indica que la empresa Contable SAS convierte en efectivo las cuentas por cobrar-clientes cada 6,23 veces en el año.
 
@@ -986,11 +986,11 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img44.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img44.svg', alt='Fórmula de periodo promedio de cobro: 365 días, dividido entre rotación de cuentas por cobrar.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img45.svg', alt='', style="width: 504px")
+                    img(src='@/assets/curso/tema2/img45.svg', alt='Sustitución numérica en la fórmula anterior para el periodo promedio de cobro del ejercicio: divide a 365 entre 6,23 es igual a 58.', style="width: 504px")
 
 
               p.px-5.mt-4 #[b Interpretación:] el resultado indica que la empresa Contable SAS convierte en efectivo las cuentas por cobrar a clientes cada 58 días en el año, es decir, es el período en el cual percibe ingresos por las ventas a crédito.
@@ -1004,20 +1004,20 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img46.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img46.svg', alt='Fórmula de rotación de inventario de mercancías: costo de las mercancías en el periodo, dividido entre inventario promedio de mercancías.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img47.svg', alt='', style="width: 465px")
+                    img(src='@/assets/curso/tema2/img47.svg', alt='Sustitución numérica en la fórmula anterior para la rotación de inventarios del ejercicio: divide a $189,600,000 entre $86,400,000 más $72,000,000 dividido por 2 es igual a 2,39.', style="width: 465px")
 
               .row.justify-content-center.align-items-center.mt-3
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img48.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img48.svg', alt='Fórmula de periodo promedio de inventarios: 365 días, dividido entre rotación de inventarios.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img49.svg', alt='', style="width: 465px")
+                    img(src='@/assets/curso/tema2/img49.svg', alt='Sustitución numérica en la fórmula anterior para el periodo promedio de inventarios del ejercicio: divide a 365 entre 2,39 es igual a 152.', style="width: 465px")
 
 
               p.px-5.mt-4 #[b Interpretación:] el inventario de la empresa Contable SAS rota 2,39 veces en el año, es decir, se convierte 2,39 veces por año en efectivo o en cuentas por cobrar, lo que corresponde a un período promedio de 152 días. Por lo tanto, la rotación es muy baja, la empresa debe implementar estrategias que permitan una rotación con mayor frecuencia.
@@ -1029,20 +1029,20 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img50.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img50.svg', alt='Fórmula de rotación de cuentas por pagar: compras a crédito, dividido entre promedio de la cuenta proveedores.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img51.svg', alt='', style="width: 560px")
+                    img(src='@/assets/curso/tema2/img51.svg', alt='Fórmula de periodo promedio de cuentas por pagar: 365 días, dividido entre rotación de cuentas por pagar.', style="width: 560px")
 
               .row.justify-content-center.align-items-center.mt-3
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img52.svg', alt='', style="width: 504px").m-auto
+                    img(src='@/assets/curso/tema2/img52.svg', alt='Sustitución numérica en la fórmula anterior para la rotación de cuentas por pagar del ejercicio: divide a $148,800,000 entre $37,165,200 más $60,600,000 dividido entre 2 es igual a 3.', style="width: 504px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img53.svg', alt='', style="width: 560px")
+                    img(src='@/assets/curso/tema2/img53.svg', alt='Sustitución numérica en la fórmula anterior para el periodo promedio de cuentas por pagar del ejercicio: divide a 365 entre 3 es igual a 121.', style="width: 560px")
 
 
               p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS paga las cuentas a proveedores cada 121 días, es decir, 3 veces en el año.
@@ -1067,10 +1067,10 @@
               p.px-5 Indica el porcentaje de participación de la utilidad generada por los ingresos de actividades ordinarias.
 
               figure
-                img(src='@/assets/curso/tema2/img55.svg', alt='', style="width: 603px").m-auto
+                img(src='@/assets/curso/tema2/img55.svg', alt='Fórmula de rentabilidad sobre ingresos operacionales: utilidad del ejercicio, dividido entre ingresos operacionales y multiplicado por 100.', style="width: 603px").m-auto
 
               figure.mt-4
-                img(src='@/assets/curso/tema2/img56.svg', alt='', style="width: 603px").m-auto
+                img(src='@/assets/curso/tema2/img56.svg', alt='Sustitución numérica en la fórmula anterior para la rentabilidad sobre ingresos operacionales del ejercicio: división de $45,055,200 entre $300,000,000, multiplicado por 100 es igual a 15,01%.', style="width: 603px").m-auto
 
               p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS por cada peso vendido generó el 15,01 % de utilidad neta.
               
@@ -1084,11 +1084,11 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img57.svg', alt='', style="width: 495px").m-auto
+                    img(src='@/assets/curso/tema2/img57.svg', alt='Fórmula de rentabilidad sobre el patrimonio: utilidad del ejercicio, dividido entre patrimonio total y multiplicado por 100.', style="width: 495px").m-auto
 
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img58.svg', alt='', style="width: 524px")
+                    img(src='@/assets/curso/tema2/img58.svg', alt='Sustitución numérica en la fórmula anterior para la rentabilidad sobre ingresos operacionales del ejercicio: división de $45,055,200 entre $87,003,200, multiplicado por 100 es igual a 51,78%.', style="width: 524px")
 
               p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 51,78 % sobre la inversión realizada por los socios.
 
@@ -1099,10 +1099,10 @@
               p.px-5 Fórmula:
 
               figure
-                img(src='@/assets/curso/tema2/img59.svg', alt='', style="width: 603px").m-auto
+                img(src='@/assets/curso/tema2/img59.svg', alt='Fórmula de rentabilidad de la utilidad bruta sobre ventas: utilidad bruta, dividido entre ingresos operacionales y multiplicado por 100.', style="width: 603px").m-auto
 
               figure.mt-4
-                img(src='@/assets/curso/tema2/img60.svg', alt='', style="width: 603px").m-auto
+                img(src='@/assets/curso/tema2/img60.svg', alt='Sustitución numérica en la fórmula anterior para la rentabilidad  del ejercicio: división de $45,055,200 entre $87,003,200, multiplicado por 100 es igual a 51,78%.', style="width: 603px").m-auto
 
               p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 36,8 % de utilidad bruta sobre los ingresos operacionales generados.
               

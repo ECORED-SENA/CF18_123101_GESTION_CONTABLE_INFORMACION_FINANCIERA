@@ -90,14 +90,14 @@
           p #[b Opción 1 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img6.svg", alt="", style="width: 490px")
+            img(src="@/assets/curso/tema3/img6.svg", alt="Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.", style="width: 490px")
 
       .col-lg-6
         .row.p-4.align-items-center.bg-27.me-lg-2
           p #[b Opción 2 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img7.svg", alt="", style="width: 490px")
+            img(src="@/assets/curso/tema3/img7.svg", alt="Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: patrimonio total, más obligaciones financieras.", style="width: 490px")
 
     .row.align-items-center.bg-13.mt-4.p-3
       .col-lg-1.d-lg-block.d-none
@@ -114,7 +114,7 @@
         .row.justify-content-center.align-items-center.bg-23.p-4(data-aos="fade-right")
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema3/img5.svg', alt='', style="width: 540px").m-auto
+              img(src='@/assets/curso/tema3/img5.svg', alt='Fórmula de costo promedio ponderado de capital (CPPC) es igual a:costo de capital multiplicado por patrimonio dividido capital invertido, más costo ponderado de la deuda multiplicado por pasivo dividido el capital invertido, multiplicado por 1 menos la tasa de impuestos sobre la renta y complementarios.', style="width: 540px").m-auto
           
           .col-lg-6
             p Donde:
@@ -136,7 +136,7 @@
             p La fórmula básica del EVA es la siguiente:
 
             figure
-              img(src="@/assets/curso/tema3/img4.svg", alt="", style="width: 279px").m-auto
+              img(src="@/assets/curso/tema3/img4.svg", alt="Fórmula de valor económico agregado  (EVA) es igual a: utilidad operacional antes de intereses y después de impuestos, menos costo promedio ponderado de capital, multiplicado por capital invertido o activo neto financiado (ANF).", style="width: 279px").m-auto
 
             p Donde:
 
@@ -379,7 +379,7 @@
                   
 
             figure.mt-4
-              img(src="@/assets/curso/tema3/img14.svg", alt="", style="width: 400px").m-auto
+              img(src="@/assets/curso/tema3/img14.svg", alt="Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiado (CIN o ANF)   del ejercicio: resta de $202,800,000 menos $86,996,800 es igual a $115,803,200.", style="width: 400px").m-auto
 
 
         .row.mt-4
@@ -387,11 +387,11 @@
 
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema3/img15.svg', alt='', style="width: 504px").m-auto
+              img(src='@/assets/curso/tema3/img15.svg', alt='Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.', style="width: 504px").m-auto
 
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema3/img16.svg', alt='', style="width: 504px").m-auto
+              img(src='@/assets/curso/tema3/img16.svg', alt='Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiado (CIN o ANF)   del ejercicio: resta de $202,800,000 menos $86,996,800 es igual a $115,803,200.', style="width: 504px").m-auto
 
         .row.mt-4
           .col-lg-4.d-lg-block.d-none
@@ -424,12 +424,12 @@
 
           p.p-4.bg-12.text-center(data-aos="fade-right") Determinar el costo promedio ponderado de capital (CPPC).
 
-          p La empresa contable SAS desea obtener un rendimiento del 30% (TIO); el costo de las obligaciones financieras es del 21% anual.
+          p La empresa contable SAS desea obtener un rendimiento del 30 % (TIO); el costo de las obligaciones financieras es del 21 % anual.
 
           .row.justify-content-center.align-items-center.bg-23.p-4(data-aos="fade-right")
             .col-lg-6
               figure
-                img(src='@/assets/curso/tema3/img18.svg', alt='', style="width: 540px").m-auto
+                img(src='@/assets/curso/tema3/img18.svg', alt='Fórmula de costo promedio ponderado de capital (CPPC) es igual a:costo de capital multiplicado por patrimonio dividido capital invertido, más costo ponderado de la deuda multiplicado por pasivo dividido el capital invertido, multiplicado por 1 menos la tasa de impuestos sobre la renta y complementarios.', style="width: 540px").m-auto
             
             .col-lg-6
               p Donde:
@@ -441,7 +441,7 @@
               p.bg-20.p-2 #[b t:] tasa de impuestos sobre la renta y complementarios.
 
           .titulo-sexto.color-acento-contenido.mb-3.mt-4
-            h5 Tabla 26. 
+            h5 Tabla 27. 
             span Reconciliación de la utilidad del ejercicio con utilidad antes de intereses – Empresa Contable SAS (2019).
 
           .tabla-a.color-acento-contenido.mt-4
@@ -488,27 +488,27 @@
             .col-12.mb-4.mb-md-0
 
               figure
-                img(src='@/assets/curso/tema3/img20.svg', alt='', style="width: 567px").m-auto
+                img(src='@/assets/curso/tema3/img20.svg', alt='Fórmula de participación obligaciones financieras: obligaciones financieras dividido entre capital invertido.', style="width: 567px").m-auto
 
               figure.mt-4
-                img(src='@/assets/curso/tema3/img21.svg', alt='', style="width: 567px").m-auto              
+                img(src='@/assets/curso/tema3/img21.svg', alt='Sustitución numérica en la fórmula anterior para la participación obligaciones financieras del ejercicio: división de $28,800,000 entre $115,803,200, es igual a 24,87%.', style="width: 567px").m-auto              
 
           div(titulo="Participación del patrimonio")
 
             figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='', style="width: 401px").m-auto
+                img(src='@/assets/curso/tema3/img22.svg', alt='Fórmula de participación patrimonio: patrimonio dividido entre capital invertido.', style="width: 401px").m-auto
 
             figure.mt-4
-              img(src='@/assets/curso/tema3/img23.svg', alt='', style="width: 401px").m-auto  
+              img(src='@/assets/curso/tema3/img23.svg', alt='Sustitución numérica en la fórmula anterior para la participación patrimonio del ejercicio: división de $87,003,200 entre $115,803,200, es igual a 75,13%.', style="width: 401px").m-auto  
 
           div(titulo="Ponderación de obligaciones")
             p.px-5 Para calcular la ponderación se realiza el siguiente procedimiento:
             figure
-              img(src='@/assets/curso/tema3/img24.svg', alt='', style="width: 390px").m-auto
+              img(src='@/assets/curso/tema3/img24.svg', alt='Fórmula de ponderación obligaciones es igual a: tasa interna de oportunidad, multiplicada por la participación.', style="width: 390px").m-auto
 
           div(titulo="Ponderación de patrimonio")
             figure
-              img(src='@/assets/curso/tema3/img25.svg', alt='', style="width: 390px").m-auto
+              img(src='@/assets/curso/tema3/img25.svg', alt='Fórmula de ponderación patrimonio es igual a: tasa interna de oportunidad, multiplicada por la participación.', style="width: 390px").m-auto
 
       .col-lg-4.d-lg-block.d-none
         figure
@@ -704,7 +704,7 @@
         .row.align-items-center.p-4.justify-content-center.bg-23(data-aos="fade-right")
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema3/img36.svg', alt='', style="width: 250px").m-auto
+              img(src='@/assets/curso/tema3/img36.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre Precio de venta unitario menos costo variable unitario.', style="width: 250px").m-auto
           .col-lg-6
             p Donde:
 
@@ -734,10 +734,10 @@
             p CVU: $35.000/unidad
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img37.svg', alt='', style="width: 480px").m-auto
+              img(src='@/assets/curso/tema3/img37.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre Precio de venta unitario menos costo variable unitario.', style="width: 480px").m-auto
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img38.svg', alt='', style="width: 480px").m-auto
+              img(src='@/assets/curso/tema3/img38.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $45,000, es igual a 8,000.', style="width: 480px").m-auto
 
     .row.bg-30
       .col-12 
@@ -754,10 +754,10 @@
                     img(src='@/assets/curso/tema3/img39.png', alt='', style="width: 507px").m-auto
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema3/img40.svg', alt='', style="width: 295px")
+                    img(src='@/assets/curso/tema3/img40.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre precio de venta unitario menos costo variable unitario dividido precio de venta unitario.', style="width: 295px")
 
                   figure.mt-2
-                    img(src='@/assets/curso/tema3/img41.svg', alt='', style="width: 400px")
+                    img(src='@/assets/curso/tema3/img41.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $45,000 dividido $40,000, es igual a $320,000,000.', style="width: 400px")
 
                   p.bg-11.p-4.mt-2 El punto de equilibrio en pesos es de $320.000.000.
 
@@ -777,25 +777,25 @@
                           th.min-padding(style="width:250px") Valor
                       tbody
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-end Ingresos operacionales
+                          td.min-padding.text-start Ingresos operacionales
                           td.text-end.min-padding $441.212.120
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding.text-end Costos variables
+                          td.min-padding.text-start Costos variables
                           td.text-end.min-padding $386.060.605
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-end #[b Margen de contribución]
+                          td.min-padding.text-start #[b Margen de contribución]
                           td.text-end.min-padding #[b $55.151.515]
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding.text-end Costos fijos
+                          td.min-padding.text-start Costos fijos
                           td.text-end.min-padding $40.000.000
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-end #[b Utilidad operacional]
+                          td.min-padding.text-start #[b Utilidad operacional]
                           td.text-end.min-padding #[b $15.151.515]
                         tr(style="background-color: #FFFFFF")
-                          td.min-padding.text-end Provisión para impuestos
+                          td.min-padding.text-start Provisión para impuestos
                           td.text-end.min-padding $5.151.515
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-end #[b Utilidad neta]
+                          td.min-padding.text-start #[b Utilidad neta]
                           td.text-end.min-padding #[b $10.000.000]
 
                 .col-lg-4.d-lg-block.d-none
@@ -821,7 +821,7 @@
         .row.align-items-center.bg-23.justify-content-center(data-aos="fade-right")
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema3/img44.svg', alt='', style="width: 259px").m-auto
+              img(src='@/assets/curso/tema3/img44.svg', alt='Fórmula de punto de equilibrio: la suma de los costos fijos más la utilidad deseada dividido entre precio de venta unitario menos costo variable unitario.', style="width: 259px").m-auto
           .col-lg-7
             p.mt-4 Donde:
 
@@ -845,12 +845,12 @@
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-5
         figure
-          img(src='@/assets/curso/tema3/img45.svg', alt='', style="width: 505px").m-auto
+          img(src='@/assets/curso/tema3/img45.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma de $40,000,000 más $10,000,000 dividido entre $40,000 menos $35,000, es igual a 10,000.', style="width: 505px").m-auto
       .col-lg-7
         p Para obtener una utilidad de $10.000.000, la empresa debe vender 10.000 unidades. Cálculo del punto de equilibrio en pesos:
 
         figure
-          img(src='@/assets/curso/tema3/img46.svg', alt='', style="width: 400px")
+          img(src='@/assets/curso/tema3/img46.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma de $40,000,000 más $10,000,000 dividido entre $40,000 menos $35,000 dividido por $40,000, es igual a $400,000,000.', style="width: 400px")
 
         p.bg-11.p-4.mt-2 Para generar una utilidad de $10.000.000, al finalizar el período debe obtener ingresos por ventas de $400.000.000.
 
@@ -895,7 +895,7 @@
         .row.align-items-center.bg-23.justify-content-center(data-aos="fade-right")
           .col-lg-5
             figure
-              img(src='@/assets/curso/tema3/img48.svg', alt='', style="width: 259px").m-auto
+              img(src='@/assets/curso/tema3/img48.svg', alt='Fórmula de punto de equilibrio: la suma de los costos fijos más la utilidad deseada dividida entre 1 menos la tasa de impuestos, dividido por el precio de venta unitario menos costo variable unitario.', style="width: 259px").m-auto
           .col-lg-7
             p.mt-4 Donde:
 
@@ -923,14 +923,14 @@
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-5
         figure
-          img(src='@/assets/curso/tema3/img50.svg', alt='', style="width: 505px").m-auto
+          img(src='@/assets/curso/tema3/img50.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma entre $40,000,000 más $10,000,000 dividido por 1 menos 0,34, dividido entre $40,000 menos $35,000, es igual a 11,030.30.', style="width: 505px").m-auto
       .col-lg-7
         p Para obtener una utilidad después de impuesto, la empresa debe vender 111.030,30 unidades.
 
         p Cálculo del punto de equilibrio en pesos:
 
         figure
-          img(src='@/assets/curso/tema3/img51.svg', alt='', style="width: 400px")
+          img(src='@/assets/curso/tema3/img51.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma entre $40,000,000 más $10,000,000 dividido por 1 menos 0,34, dividido entre $40,000 menos $35,000 dividido $40,000 es igual a $441,212,120', style="width: 400px")
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-5.d-lg-block.d-none
