@@ -22,7 +22,7 @@
       .col-lg-7
         .bloque-texto-c.bg-29.p-4(data-aos="fade-right")
           i.fas.fa-quote-right
-          h3.mb-2 El Valor económico agregado (EVA) es un método de desempeño financiero para calcular el verdadero beneficio económico de una empresa.
+          h3.mb-2 El Valor Económico Agregado (EVA) es un método de desempeño financiero para calcular el verdadero beneficio económico de una empresa.
           span - (Coral, D., L. y Gudiño, E., 2014). 
 
         p.mt-4 Este método permite conocer la rentabilidad de la empresa, teniendo en cuenta que el resultado que genera ya tiene deducidos los costos y los gastos. Asimismo, permite analizar el incremento de la inversión de los inversionistas o socios.  
@@ -90,14 +90,14 @@
           p #[b Opción 1 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img6.svg", alt="Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.", style="width: 490px")
+            img(src="@/assets/curso/tema3/img6.svg", alt="Fórmula de capital invertido o activo neto financiero (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.", style="width: 490px")
 
       .col-lg-6
         .row.p-4.align-items-center.bg-27.me-lg-2
           p #[b Opción 2 de cálculo:]
 
           figure
-            img(src="@/assets/curso/tema3/img7.svg", alt="Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: patrimonio total, más obligaciones financieras.", style="width: 490px")
+            img(src="@/assets/curso/tema3/img7.svg", alt="Fórmula de capital invertido o activo neto financiero (CIN o ANF) es igual a: patrimonio total, más obligaciones financieras.", style="width: 490px")
 
     .row.align-items-center.bg-13.mt-4.p-3
       .col-lg-1.d-lg-block.d-none
@@ -136,7 +136,7 @@
             p La fórmula básica del EVA es la siguiente:
 
             figure
-              img(src="@/assets/curso/tema3/img4.svg", alt="Fórmula de valor económico agregado  (EVA) es igual a: utilidad operacional antes de intereses y después de impuestos, menos costo promedio ponderado de capital, multiplicado por capital invertido o activo neto financiado (ANF).", style="width: 279px").m-auto
+              img(src="@/assets/curso/tema3/img4.svg", alt="Promedio ponderado de capital, multiplicado por capital invertido o activo neto financiado (ANF).", style="width: 279px").m-auto
 
             p Donde:
 
@@ -146,7 +146,7 @@
 
             p.bg-20.p-2 #[b CPPC] = Costo promedio ponderado de capital.
 
-            p.bg-20.p-2 #[b CIN ] = Capital invertido o activo neto financiado (ANF).
+            p.bg-20.p-2 #[b CIN ] = Capital invertido o activo neto financiero (ANF).
 
     .tarjeta.bg-14.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -352,9 +352,9 @@
 
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 25. 
-              span Estado de situación financiera – Pasivos de la Empresa Contable.
+              span Estado de situación financiera – Pasivos de la Empresa Contable
 
-            .tabla-a.color-acento-contenido.mt-4
+            .tabla-a.color-acento-contenido.my-4
               table
                 thead
                   tr(style="background-color: #FD9826")
@@ -376,10 +376,10 @@
                   tr(style="background-color: #F6F6F6")
                     td.text-start.min-padding Total pasivo
                     td.text-end.min-padding $86.996.800
-                  
-
+            figure
+              img(src='@/assets/curso/tema3/img13.svg', alt='Fórmula de capital invertido o activo neto financiero (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.', style="width: 504px").m-auto
             figure.mt-4
-              img(src="@/assets/curso/tema3/img14.svg", alt="Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiado (CIN o ANF)   del ejercicio: resta de $202,800,000 menos $86,996,800 es igual a $115,803,200.", style="width: 400px").m-auto
+              img(src="@/assets/curso/tema3/img14.svg", alt="Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiero (CIN o ANF) del ejercicio: resta de $202,800,000 menos $86,996,800 es igual a $115,803,200.", style="width: 400px").m-auto
 
 
         .row.mt-4
@@ -387,11 +387,11 @@
 
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema3/img15.svg', alt='Fórmula de capital invertido o activo neto financiado (CIN o ANF) es igual a: activos totales, menos pasivos que no generen intereses.', style="width: 504px").m-auto
+              img(src='@/assets/curso/tema3/img15.svg', alt='Fórmula de capital invertido o activo neto financiero (CIN o ANF) es igual a: patrimonio total, más obligaciones financieras.', style="width: 504px").m-auto
 
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema3/img16.svg', alt='Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiado (CIN o ANF)   del ejercicio: resta de $202,800,000 menos $86,996,800 es igual a $115,803,200.', style="width: 504px").m-auto
+              img(src='@/assets/curso/tema3/img16.svg', alt='Sustitución numérica en la fórmula anterior para el capital invertido o activo neto financiero (CIN o ANF) del ejercicio: suma de $87,003,200 más $28,000,000 es igual a $115,803,200.', style="width: 504px").m-auto
 
         .row.mt-4
           .col-lg-4.d-lg-block.d-none
@@ -442,16 +442,16 @@
 
           .titulo-sexto.color-acento-contenido.mb-3.mt-4
             h5 Tabla 27. 
-            span Reconciliación de la utilidad del ejercicio con utilidad antes de intereses – Empresa Contable SAS (2019).
+            span Reconciliación de la utilidad del ejercicio con utilidad antes de intereses - Empresa Contable SAS (2019)
 
           .tabla-a.color-acento-contenido.mt-4
             table
               thead
                 tr(style="background-color: #FD9826")
-                  th.min-padding(style="width: 20%") Recurso
+                  th.min-padding(style="width: 15%") Recurso
                   th.min-padding(style="width: 15%") Valor
                   th.min-padding(style="width: 15%") ANF
-                  th.min-padding(style="width: 10%") TIO
+                  th.min-padding(style="width: 15%") TIO
                   th.min-padding(style="width: 20%") Participación
                   th.min-padding(style="width: 20%") Ponderación
                   th.min-padding(style="width: 20%") Costo promedio
@@ -476,10 +476,12 @@
                   td.text-start.min-padding #[b Total]
                   td.text-end.min-padding 
                   td.text-end.min-padding 
-                  td.text-end.min-padding 51,00 %
-                  td.text-end.min-padding 100 %
+                  td.text-end.min-padding #[b 51,00 %]
+                  td.text-end.min-padding #[b 100 %]
                   td.text-end.min-padding #[b 27,76 %]
                   td.text-end.min-padding #[b 27,76 %]
+    
+    p.my-4 Para hallar el porcentaje de participación se realiza lo siguiente:
 
     .row.align-items-center.mt-4
       .col-lg-8
@@ -707,13 +709,10 @@
               img(src='@/assets/curso/tema3/img36.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre Precio de venta unitario menos costo variable unitario.', style="width: 250px").m-auto
           .col-lg-6
             p Donde:
-
             p.bg-20.p-1 #[b PEQ:]  Punto de equilibrio
             p.bg-20.p-1 #[b CF: ] Costos fijos
             p.bg-20.p-1 #[b PVU: ] Precio de venta unitario
             p.bg-20.p-1 #[b CVU: ] Costo variable unitario
-
-
 
     .tarjeta.bg-14.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -730,14 +729,14 @@
         .row.p-4.justify-content-center.bg-23(data-aos="fade-right")
           .col-lg-4
             p CF:  $40.000.000
-            p PVU: $40.000 /unidad
-            p CVU: $35.000/unidad
+            p PVU: $40.000 / unidad
+            p CVU: $35.000 / unidad
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img37.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre Precio de venta unitario menos costo variable unitario.', style="width: 480px").m-auto
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema3/img38.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $45,000, es igual a 8,000.', style="width: 480px").m-auto
+              img(src='@/assets/curso/tema3/img38.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $35,000, es igual a 8,000.', style="width: 480px").m-auto
 
     .row.bg-30
       .col-12 
@@ -757,7 +756,7 @@
                     img(src='@/assets/curso/tema3/img40.svg', alt='Fórmula de punto de equilibrio: costos fijos dividido entre precio de venta unitario menos costo variable unitario dividido precio de venta unitario.', style="width: 295px")
 
                   figure.mt-2
-                    img(src='@/assets/curso/tema3/img41.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $45,000 dividido $40,000, es igual a $320,000,000.', style="width: 400px")
+                    img(src='@/assets/curso/tema3/img41.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: división de $40,000,000 entre $40,000 menos $35,000 dividido $40,000, es igual a $320,000,000.', style="width: 400px")
 
                   p.bg-11.p-4.mt-2 El punto de equilibrio en pesos es de $320.000.000.
 
@@ -778,25 +777,19 @@
                       tbody
                         tr(style="background-color: #F6F6F6")
                           td.min-padding.text-start Ingresos operacionales
-                          td.text-end.min-padding $441.212.120
+                          td.text-end.min-padding $320.000.000
                         tr(style="background-color: #FFFFFF")
                           td.min-padding.text-start Costos variables
-                          td.text-end.min-padding $386.060.605
+                          td.text-end.min-padding $280.000.000
                         tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-start #[b Margen de contribución]
-                          td.text-end.min-padding #[b $55.151.515]
+                          td.min-padding.text-start Margen de contribución
+                          td.text-end.min-padding $40.000.000
                         tr(style="background-color: #FFFFFF")
                           td.min-padding.text-start Costos fijos
                           td.text-end.min-padding $40.000.000
                         tr(style="background-color: #F6F6F6")
                           td.min-padding.text-start #[b Utilidad operacional]
-                          td.text-end.min-padding #[b $15.151.515]
-                        tr(style="background-color: #FFFFFF")
-                          td.min-padding.text-start Provisión para impuestos
-                          td.text-end.min-padding $5.151.515
-                        tr(style="background-color: #F6F6F6")
-                          td.min-padding.text-start #[b Utilidad neta]
-                          td.text-end.min-padding #[b $10.000.000]
+                          td.text-end.min-padding #[b 0]
 
                 .col-lg-4.d-lg-block.d-none
                   figure
@@ -823,14 +816,13 @@
             figure
               img(src='@/assets/curso/tema3/img44.svg', alt='Fórmula de punto de equilibrio: la suma de los costos fijos más la utilidad deseada dividido entre precio de venta unitario menos costo variable unitario.', style="width: 259px").m-auto
           .col-lg-7
-            p.mt-4 Donde:
 
+            p.mt-4 Donde:
             p.bg-20.p-1 #[b PEQ:] Punto de equilibrio.
             p.bg-20.p-1 #[b CF:] Costos fijos.
             p.bg-20.p-1 #[b PVU:] Precio de venta unitario.
             p.bg-20.p-1 #[b CVU:] Costo variable unitario.
             p.bg-20.p-1 #[b UD:] Utilidad deseada.
-
 
     .tarjeta.bg-14.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -897,13 +889,14 @@
             figure
               img(src='@/assets/curso/tema3/img48.svg', alt='Fórmula de punto de equilibrio: la suma de los costos fijos más la utilidad deseada dividida entre 1 menos la tasa de impuestos, dividido por el precio de venta unitario menos costo variable unitario.', style="width: 259px").m-auto
           .col-lg-7
-            p.mt-4 Donde:
 
+            p.mt-4 Donde:
             p.bg-20.p-1 #[b PEQ:] punto de equilibrio.
             p.bg-20.p-1 #[b CF:] costos fijos.
             p.bg-20.p-1 #[b PVU:] precio de venta unitario.
             p.bg-20.p-1 #[b CVU:] costo variable unitario.
             p.bg-20.p-1 #[b UD:] utilidad deseada.
+            p.bg-20.p-1 #[b t:] tasa de impuestos.
 
       .col-lg-4.d-lg-block.d-none
         figure
@@ -930,7 +923,7 @@
         p Cálculo del punto de equilibrio en pesos:
 
         figure
-          img(src='@/assets/curso/tema3/img51.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma entre $40,000,000 más $10,000,000 dividido por 1 menos 0,34, dividido entre $40,000 menos $35,000 dividido $40,000 es igual a $441,212,120', style="width: 400px")
+          img(src='@/assets/curso/tema3/img51.svg', alt='Sustitución numérica en la fórmula anterior para el punto de equilibrio del ejercicio: suma entre $40,000,000 más $10,000,000 dividido por 1 menos 0,34, dividido entre $40,000 menos $35,000 dividido $40,000 es igual a $441,212,120.', style="width: 400px")
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-5.d-lg-block.d-none

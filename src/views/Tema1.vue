@@ -114,16 +114,16 @@
                 img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 400px").m-auto
             .col-lg-7
               figure
-                img(src="@/assets/curso/tema1/img10.svg", alt="Fórmula para calcular el porcentaje de activo: relación entre una cuenta del activo y el total de activos, multiplicada por 100.", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img10.svg", alt="Fórmula para calcular el porcentaje de activo: división entre una cuenta del activo, dividida por el total de activos, y multiplicado por 100.", style="width: 400px").m-auto
               
               p.p-4.bg-4.mt-2(data-aos="fade-right") Para desarrollar el procedimiento en el pasivo y patrimonio se toma como base la sumatoria de pasivo y patrimonio, luego se calcula el porcentaje que representa cada una de las cuentas de estos elementos. 
 
               p Las fórmulas que se aplican son las siguientes:
 
               figure
-                img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: relación entre una cuenta del pasivo y la suma del total pasivo más patrimonio, multiplicada por 100.", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: división entre una cuenta del pasivo dividido por la suma del total pasivo, más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
               figure
-                img(src="@/assets/curso/tema1/img12.svg", alt="Fórmula para calcular el porcentaje de patrimonio: relación entre una cuenta del pat", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img12.svg", alt="Fórmula para calcular el porcentaje de patrimonio: relación entre una cuenta del patrimonio y la suma del total pasivo más patrimonio, multiplicada por 100.", style="width: 400px").m-auto
 
 
     .tarjeta.bg-14.p-4.mt-4
@@ -286,7 +286,7 @@
                 .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 4.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos no corrientes
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -324,7 +324,7 @@
                 .col-lg-8
                   .titulo-sexto.color-acento-contenido.mb-3
                     h5 Tabla 5.
-                    span Análisis financiero y técnicas de evaluación de estados financieros - pasivos corrientes
+                    span Análisis financiero y técnicas de evaluación de estados financieros - patrimonio
 
                   .tabla-a.color-acento-contenido.mt-4
                     table
@@ -377,7 +377,7 @@
               figure
                 img(src="@/assets/curso/tema1/img14.svg", alt="Fórmula para calcular el porcentaje del efectivo sobre el total de activos: división del valor de la cuenta de efectivo entre el total de activos, multiplicado por 100.", style="width: 400px").m-auto
               figure
-                img(src="@/assets/curso/tema1/img15.svg", alt="Sustitución numérica en la fórmula anterior: división de 5,362,468 entre 339,376,474, multiplicado por 100.", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img15.svg", alt="Sustitución numérica en la fórmula anterior: división de 362,458 entre 23,763,474, multiplicado por 100, es igual a 1.53 %.", style="width: 400px").m-auto
             .col-lg-5.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/tema1/img16.png', alt='', style="width: 505px").m-auto
@@ -396,7 +396,7 @@
                   figure
                     img(src="@/assets/curso/tema1/img18.svg", alt="Fórmula para calcular el porcentaje de inventarios sobre el total de activos: división del valor de la cuenta de inventarios entre el total de activos, multiplicado por 100.", style="width: 400px").m-auto
                   figure.mt-2
-                    img(src="@/assets/curso/tema1/img19.svg", alt="Sustitución numérica en la fórmula anterior: división de 55,919,395 entre 339,376,474, multiplicado por 100.", style="width: 400px").m-auto
+                    img(src="@/assets/curso/tema1/img19.svg", alt="Sustitución numérica en la fórmula anterior: división de 3,919,395 entre 23,763,474 multiplicado por 100, es igual a 16,49 %.", style="width: 400px").m-auto
                   
                   p.p-4.bg-11.mt-4(data-aos="fade-right") Los inventarios representan el 16,49 % del activo total.
                 
@@ -414,7 +414,7 @@
         figure
           img(src="@/assets/curso/tema1/img20.svg", alt="Fórmula para calcular el porcentaje de obligaciones financieras sobre el total de pasivo y patrimonio: división del valor de la cuenta de obligaciones entre la suma del pasivo más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
         figure.mt-2
-          img(src="@/assets/curso/tema1/img21.svg", alt="Sustitución numérica en la fórmula anterior: división de 52,193,095 entre 565,726,474, multiplicado por 100.", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img21.svg", alt="Sustitución numérica en la fórmula anterior: división de 2,193,095 entre 23,763,474, multiplicado por 100, es igual a 9,23 %.", style="width: 400px").m-auto
         
         p.p-4.bg-12.mt-4(data-aos="fade-right") Las obligaciones financieras representan el 9,23 % del total de pasivo más patrimonio.  
 
@@ -436,7 +436,7 @@
         figure
           img(src="@/assets/curso/tema1/img23.svg", alt="Fórmula para calcular el porcentaje del capital en el patrimonio: división del valor de la cuenta de capital entre la suma del pasivo más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
         figure.mt-2
-          img(src="@/assets/curso/tema1/img24.svg", alt="Sustitución numérica en la fórmula anterior: división de 513,533,379 entre 565,726,474, multiplicado por 100.", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema1/img24.svg", alt="Sustitución numérica en la fórmula anterior: división de 550,000 entre 23,763,474, multiplicado por 100, es igual a 2,31 %.", style="width: 400px").m-auto
         
         p.p-4.bg-13.mt-4(data-aos="fade-right") El capital representa el 2,31 % sobre el patrimonio total de pasivo más patrimonio.
 
@@ -594,7 +594,7 @@
 
           .tarjeta.clr-paleYellow.p-4(titulo="Variación relativa")
             h4 Variación relativa
-            p En el caso de la variación relativa se tiene en cuenta la variación absoluta (año actual – año anterior), dividido en el año anterior, cabe resaltar que se multiplica por 100 para obtener el porcentaje.
+            p En el caso de la variación relativa se tiene en cuenta la variación absoluta (año actual - año anterior), dividido en el año anterior, cabe resaltar que se multiplica por 100 para obtener el porcentaje.
             figure.d-block.mx-auto
               img(src="@/assets/curso/tema1/img35.svg", alt="Fórmula de variación relativa: resta del valor del año actual menos el valor del año anterior, dividido entre el valor del año anterior y multiplicado por 100.", style="width:462px").m-auto
 
@@ -671,7 +671,7 @@
                             td.text-center #[b 2019]
                             td.text-center #[b 2018]
                             td.text-center #[b Variación absoluta]
-                            td.text-center #[b Variación %]
+                            td.text-center #[b Variación relativa]
                           tr(style="background-color: #FFFF")
                             td.text-start Efectivo y equivalentes de efectivo
                             td.text-end $362.458
@@ -727,7 +727,7 @@
                             td.text-center #[b 2019]
                             td.text-center #[b 2018]
                             td.text-center #[b Variación absoluta]
-                            td.text-center #[b Variación %]
+                            td.text-center #[b Variación relativa]
                           tr(style="background-color: #FFFF")
                             td.text-start Activos financieros
                             td.text-end $43.600
@@ -794,7 +794,7 @@
                             td.text-center #[b 2019]
                             td.text-center #[b 2018]
                             td.text-center #[b Variación absoluta]
-                            td.text-center #[b Variación %]
+                            td.text-center #[b Variación relativa]
                           tr(style="background-color: #FFFF")
                             td.text-start Obligaciones financieras
                             td.text-end $2.193.035
@@ -856,7 +856,7 @@
                             td.text-center #[b 2019]
                             td.text-center #[b 2018]
                             td.text-center #[b Variación absoluta]
-                            td.text-center #[b Variación %]
+                            td.text-center #[b Variación relativa]
                           tr(style="background-color: #FFFF")
                             td.text-start Obligaciones financieras
                             td.text-end $4.896.265
@@ -893,7 +893,7 @@
                   .col-lg-10
                     .titulo-sexto.color-acento-contenido.mb-3
                       h5 Tabla 12.
-                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - pasivos no corrientes
+                      span Análisis financiero integral de la compañía contable SAS - análisis horizontal - patrimonio
 
                     .tabla-a.color-acento-contenido.mt-4
                       table
@@ -906,7 +906,7 @@
                             td.text-center #[b 2019]
                             td.text-center #[b 2018]
                             td.text-center #[b Variación absoluta]
-                            td.text-center #[b Variación %]
+                            td.text-center #[b Variación relativa]
                           tr(style="background-color: #FFFF")
                             td.text-start Capital suscrito y pagado
                             td.text-end $550.000
@@ -964,10 +964,10 @@
             tbody(style="background-color: #F6F6F6")
               tr
                 td.text-start Efectivo y equivalentes de efectivo
-                td.text-end $362.458
-                td.text-end $689.032
-                td.text-end(style="color:red") -$326.575
-                td.text-end(style="color:red") -47,40 %
+                td.text-end $5,390,590
+                td.text-end $4,949,773
+                td.text-end(style="color:red") $440.817
+                td.text-end(style="color:red") 8,91 %
 
     .row.bg-17
       .col-12 
@@ -977,7 +977,7 @@
               .row.bg-13.p-4.align-items-center.mt-4.justify-content-center
                 .col-lg-7
                   figure.d-block.mx-auto
-                    img(src="@/assets/curso/tema1/img38.svg", alt="", style="width: 560px")
+                    img(src="@/assets/curso/tema1/img38.svg", alt="Expresión general y un ejemplo numérico con valores de 5,390,590 y 4,949,773, resultando en una variación absoluta de 440,817 y una variación relativa de 8,91 %.", style="width: 560px")
                 .col-lg-4.d-lg-block.d-none
                   figure
                     img(src='@/assets/curso/tema1/img39.png', alt='', style="width: 363px").m-auto
@@ -1017,11 +1017,11 @@
                       td.text-end $845.821
                       td.text-end 4,09 %
                     tr(style="background-color: #FFFF")
-                      td.text-start Utilidad bruta
-                      td.text-end $9.250.972
-                      td.text-end $8.157.895
-                      td.text-end $1.093.077
-                      td.text-end 13,40 %
+                      td.text-start #[b Utilidad bruta]
+                      td.text-end #[b $9.250.972]
+                      td.text-end #[b $8.157.895]
+                      td.text-end #[b $1.093.077]
+                      td.text-end #[b 13,40 %]
                     tr(style="background-color: #F6F6F6")
                       td.text-start Otros ingresos
                       td.text-end $451.971
@@ -1050,14 +1050,14 @@
                       td.text-start Otros gastos
                       td.text-end $95.344
                       td.text-end $164.881
-                      td.text-end #[span(style="color: red") -$69.537]
+                      td.text-end  $69.537
                       td.text-end #[span(style="color: red") -42,17 %]
                     tr(style="background-color: #FFFF")
-                      td.text-start Utilidad operacional
-                      td.text-end $1.176.823
-                      td.text-end $1.046.502
-                      td.text-end $130.321
-                      td.text-end 12,45 %
+                      td.text-start #[b Utilidad operacional]
+                      td.text-end #[b $1.176.823]
+                      td.text-end #[b $1.046.502]
+                      td.text-end #[b $130.321]
+                      td.text-end #[b 12,45 %]
                     tr(style="background-color: #F6F6F6")
                       td.text-start Gasto por impuesto a la renta
                       td.text-end $388.352
@@ -1070,8 +1070,6 @@
                       td.text-end #[b $701.156]
                       td.text-end #[b $87.315]
                       td.text-end #[b 12,45 %]
-
-
 
 </template>
 

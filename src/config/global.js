@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Técnicas de análisis e indicadores financieros',
     Description:
-      'Es importante realizar el análisis de los estados financieros, mediante la aplicación de técnicas como el análisis vertical y horizontal, indicadores financieros y de gestión; aunado a ello, el cálculo de punto de equilibrio, el EBITDA y el valor económico agregado (EVA), además, de otros elementos que contribuyen a la generación e implementación de estrategias con valor agregado para la organización.',
+      'Es importante realizar el análisis de los estados financieros, mediante la aplicación de técnicas como el análisis vertical y horizontal, indicadores financieros y de gestión; aunado a ello, el cálculo de punto de equilibrio, el EBITDA y el Valor Económico Agregado (EVA), además, de otros elementos que contribuyen a la generación e implementación de estrategias con valor agregado para la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [

@@ -243,15 +243,12 @@
                     img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 95px").m-auto
                 .col-lg-10
                   p.mt-2 #[b Temporales]
-                  p Generalmente se asocian al logro de objetivos de un proyecto o actividad, tiene fecha de vencimiento una vez finalice dicha tarea.
+                  p Generalmente se asocian al logro de objetivos de un proyecto o actividad, tienen fecha de vencimiento una vez finalice dicha tarea.
 
 
           .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
             figure.m-0.p-0.w-100.h-100.d-flex
               img(src='@/assets/curso/tema2/img9.png', alt='', class="w-100 h-100 object-fit-cover")
-
-
-
 
     .row.mb-2.ms-0.mt-4
       .col-auto.bg-c6(data-aos="fade-left")
@@ -876,7 +873,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-6
                   figure
-                    img(src='@/assets/curso/tema2/img34.svg', alt='Fórmula de eficacia: activo corriente, dividido entre pasivo corriente.', style="width: 267px").m-auto
+                    img(src='@/assets/curso/tema2/img34.svg', alt='Fórmula de razón corriente: activo corriente, dividido entre pasivo corriente.', style="width: 267px").m-auto
 
                 .col-lg-6
                   figure
@@ -884,8 +881,6 @@
 
 
               p.px-5.mt-4 #[b Interpretación:] la empresa tiene una razón corriente de 1,23 en el año 2019, es decir, que por cada peso que la empresa debe en el corto plazo cuenta con $1,23 del activo corriente para respaldar la obligación.
-
-              
 
           div(titulo="Capital neto de trabajo")
             p.px-5 El capital de trabajo neto es el indicador que muestra la disponibilidad del activo corriente para asumir los compromisos de la empresa y operar en condiciones normales, es decir, adquirir materias primas, pagar servicios, arrendamientos, sueldos, entre otros (Gerencie, 2020).
@@ -902,7 +897,7 @@
                     img(src='@/assets/curso/tema2/img37.svg', alt='Sustitución numérica en la fórmula anterior para el capital neto de trabajo del ejercicio: resta de $142,800,000 el valor de $115,796,800 es igual a $27,003,200.', style="width: 504px")
 
 
-              p.px-5.mt-4 #[b Interpretación:] la empresa tiene una razón corriente de 1,23 en el año 2019, es decir, que por cada peso que la empresa debe en el corto plazo cuenta con $1,23 del activo corriente para respaldar la obligación.
+              p.px-5.mt-4 #[b Interpretación:] la empresa Contable SAS tiene disponible $27.003.200 para cumplir con sus compromisos y operar normalmente.
 
           div(titulo="Prueba ácida")
               p.px-5 El indicador de prueba o razón ácida mide la capacidad que tiene la empresa para cubrir las obligaciones a corto plazo, sin tener que recurrir a la venta de sus inventarios y sin tener en cuenta los gastos pagados por anticipado. También se conoce con el nombre de liquidez seca, incluye los saldos de efectivo, cuentas por cobrar e inversiones temporales.
@@ -1102,7 +1097,7 @@
                 img(src='@/assets/curso/tema2/img59.svg', alt='Fórmula de rentabilidad de la utilidad bruta sobre ventas: utilidad bruta, dividido entre ingresos operacionales y multiplicado por 100.', style="width: 603px").m-auto
 
               figure.mt-4
-                img(src='@/assets/curso/tema2/img60.svg', alt='Sustitución numérica en la fórmula anterior para la rentabilidad  del ejercicio: división de $45,055,200 entre $87,003,200, multiplicado por 100 es igual a 51,78%.', style="width: 603px").m-auto
+                img(src='@/assets/curso/tema2/img60.svg', alt='Sustitución numérica en la fórmula anterior para la rentabilidad  del ejercicio: división de $110,400,000 entre $300,000,000, multiplicado por 100 es igual a 36,8 %.', style="width: 603px").m-auto
 
               p.px-5.mt-4 #[b Interpretación:] la empresa contable SAS obtuvo una rentabilidad de 36,8 % de utilidad bruta sobre los ingresos operacionales generados.
               
