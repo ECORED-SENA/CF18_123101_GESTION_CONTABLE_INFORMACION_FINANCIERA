@@ -442,7 +442,7 @@
 
           .titulo-sexto.color-acento-contenido.mb-3.mt-4
             h5 Tabla 27. 
-            span Reconciliación de la utilidad del ejercicio con utilidad antes de intereses - Empresa Contable SAS (2019)
+            span Cálculo del costo promedio ponderado de capital - Empresa Contable SAS
 
           .tabla-a.color-acento-contenido.mt-4
             table
@@ -506,11 +506,11 @@
           div(titulo="Ponderación de obligaciones")
             p.px-5 Para calcular la ponderación se realiza el siguiente procedimiento:
             figure
-              img(src='@/assets/curso/tema3/img24.svg', alt='Fórmula de ponderación obligaciones es igual a: tasa interna de oportunidad, multiplicada por la participación.', style="width: 390px").m-auto
+              img(src='@/assets/curso/tema3/img24.svg', alt='Fórmula de ponderación obligaciones es igual a: tasa interna de portunidad, multiplicada por la participación. Sustitución numérica en la fórmula anterior para la ponderación obligaciones del ejercicio: multiplicación de 21 % por el 24,87 %, es igual a 5,22%.', style="width: 390px").m-auto
 
           div(titulo="Ponderación de patrimonio")
             figure
-              img(src='@/assets/curso/tema3/img25.svg', alt='Fórmula de ponderación patrimonio es igual a: tasa interna de oportunidad, multiplicada por la participación.', style="width: 390px").m-auto
+              img(src='@/assets/curso/tema3/img25.svg', alt='Fórmula de ponderación patrimonio es igual a: tasa interna de oportunidad, multiplicada por la participación. Sustitución numérica en la fórmula anterior para la ponderación patrimonio del ejercicio: multiplicación de 30 % por el 75,13 %, es igual a 22,54 %. Entonces, el costo promedio ponderado de capital (CPPC): será igual a la suma entre 5,22 % y 22,54 %, igual a 27,76 %.', style="width: 390px").m-auto
 
       .col-lg-4.d-lg-block.d-none
         figure

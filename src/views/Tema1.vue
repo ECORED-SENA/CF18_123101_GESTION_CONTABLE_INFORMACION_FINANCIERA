@@ -113,14 +113,14 @@
               figure
                 img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 400px").m-auto
             .col-lg-7
-              figure
+              figure.mb-4
                 img(src="@/assets/curso/tema1/img10.svg", alt="Fórmula para calcular el porcentaje de activo: división entre una cuenta del activo, dividida por el total de activos, y multiplicado por 100.", style="width: 400px").m-auto
               
               p.p-4.bg-4.mt-2(data-aos="fade-right") Para desarrollar el procedimiento en el pasivo y patrimonio se toma como base la sumatoria de pasivo y patrimonio, luego se calcula el porcentaje que representa cada una de las cuentas de estos elementos. 
 
               p Las fórmulas que se aplican son las siguientes:
 
-              figure
+              figure.mb-2
                 img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: división entre una cuenta del pasivo dividido por la suma del total pasivo, más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
               figure
                 img(src="@/assets/curso/tema1/img12.svg", alt="Fórmula para calcular el porcentaje de patrimonio: relación entre una cuenta del patrimonio y la suma del total pasivo más patrimonio, multiplicada por 100.", style="width: 400px").m-auto
