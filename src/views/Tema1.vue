@@ -121,7 +121,7 @@
               p Las fórmulas que se aplican son las siguientes:
 
               figure.mb-2
-                img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: división entre una cuenta del pasivo dividido por la suma del total pasivo, más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
+                img(src="@/assets/curso/tema1/img11.svg", alt="Fórmula para calcular el porcentaje de pasivo: división entre una cuenta del activo dividido por la suma del total pasivo, más patrimonio, multiplicado por 100.", style="width: 400px").m-auto
               figure
                 img(src="@/assets/curso/tema1/img12.svg", alt="Fórmula para calcular el porcentaje de patrimonio: relación entre una cuenta del patrimonio y la suma del total pasivo más patrimonio, multiplicada por 100.", style="width: 400px").m-auto
 
