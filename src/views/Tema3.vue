@@ -16,7 +16,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-right") 3.1 Valor económico agregado (EVA)
+      h2(data-aos="fade-right") 3.1 Valor Económico Agregado (EVA)
 
     .row.align-items-center
       .col-lg-7
