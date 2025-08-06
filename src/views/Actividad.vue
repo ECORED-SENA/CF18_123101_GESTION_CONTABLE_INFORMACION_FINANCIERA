@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Identificar los conceptos clave relacionados con las técnicas de análisis financiero, los indicadores de gestión y financieros, así como su aplicación para la toma de decisiones en las organizaciones.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -61,7 +61,7 @@ export default {
           id: 2,
           texto:
             '¿Qué representa el análisis vertical en los estados financieros?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -92,7 +92,7 @@ export default {
         {
           id: 3,
           texto: '¿Cuál de los siguientes es un indicador de liquidez?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -122,7 +122,7 @@ export default {
         {
           id: 4,
           texto: '¿Qué mide la prueba ácida en una empresa?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -152,7 +152,7 @@ export default {
         {
           id: 5,
           texto: 'El análisis horizontal permite:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -213,7 +213,7 @@ export default {
         {
           id: 7,
           texto: '¿Cuál de los siguientes no es un indicador financiero?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -243,7 +243,7 @@ export default {
         {
           id: 8,
           texto: '¿Qué representa un EVA negativo?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -273,7 +273,7 @@ export default {
         {
           id: 9,
           texto: '¿Cuál es la fórmula del punto de equilibrio en unidades?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -305,7 +305,7 @@ export default {
           id: 10,
           texto:
             '¿Qué indicador mide la rapidez en convertir cuentas por cobrar en efectivo?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -357,7 +357,7 @@ export default {
           id: 12,
           texto:
             'La utilidad operativa se calcula antes de aplicar los impuestos y gastos financieros.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -377,7 +377,7 @@ export default {
         {
           id: 13,
           texto: 'Un indicador de gestión puede ser la eficiencia operativa.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -398,7 +398,7 @@ export default {
           id: 14,
           texto:
             'El capital de trabajo neto se obtiene restando los activos no corrientes a los pasivos.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -419,7 +419,7 @@ export default {
           id: 15,
           texto:
             'El EVA positivo indica que la empresa está generando valor para sus propietarios.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {

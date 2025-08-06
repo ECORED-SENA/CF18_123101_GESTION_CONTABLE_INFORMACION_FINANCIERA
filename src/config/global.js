@@ -247,8 +247,7 @@ export default {
     {
       referencia:
         'Martínez, H. (s.f.). <em>Indicadores financieros y su interpretación.</em>',
-      link:
-        'https://pdf4pro.com/view/iv-indicadores-financieros-y-su-6a73b.html',
+      link: '',
     },
     {
       referencia: 'Mejía, A. (s.f.). <em>Indicadores de gestión.</em>',
